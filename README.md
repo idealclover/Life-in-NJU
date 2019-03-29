@@ -36,6 +36,8 @@
 
 [(软院)专业课复习资料](https://github.com/NJU-SE-15-share-review/professional-class) by [@NJU-SE-15-share-review](https://github.com/NJU-SE-15-share-review)
 
+[南哪复习资料](https://github.com/idealclover/NJU-Review-Materials) by [@idealclover](https://github.com/idealclover)
+
 ## 社团安利
 
 [南京大学IT侠主页](https://itxia.club/)
