@@ -4,7 +4,7 @@
 
 受项目[SEU-ITE/awesome-seu](https://github.com/SEU-ITE/awesome-seu)启发，本着**给我南也整一个**的思想而形成的项目
 
-个人了解项目较少，如有项目与其他分享请尽管 [**提ISSUE**](https://github.com/idealclover/awesome-nju/issues) 或 [ **提PR**](https://github.com/idealclover/awesome-nju/pulls)！感谢！
+个人了解项目较少，如有项目与其他分享请尽管 [**提ISSUE**](https://github.com/idealclover/awesome-nju/issues) 或 [ **提PR**](https://github.com/idealclover/awesome-nju/pulls) 或 [**QQ**:1455169173](http://wpa.qq.com/msgrd?v=3&uin=1455169173&site=qq&menu=yes)！感谢！
 
 > 注：
 > - ⚠️：不保证可用性
