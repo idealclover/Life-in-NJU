@@ -26,7 +26,7 @@
 
 [南京大学开源镜像站](https://mirrors.nju.edu.cn/)
 
-[南京大学计算机2019考研](https://github.com/ThyrixYang/nju_cs_kaoyan_19) by [@ThyrixYang](https://github.com/ThyrixYang)
+[南京大学计算机2019考研](https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki) by [@ThyrixYang](https://github.com/ThyrixYang)
 
 [南京大学学位论文XeLaTeX模板](https://github.com/Haixing-Hu/nju-thesis) by [@Haixing-Hu](https://github.com/Haixing-Hu)
 
