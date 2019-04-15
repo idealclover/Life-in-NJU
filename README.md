@@ -42,6 +42,8 @@
 
 [南京大学IT侠主页](https://itxia.club/)
 
+[南京大学IT侠博客](https://itxia.github.io/)
+
 [南京大学小百合工作室主页](http://www.lilystudio.org)
 
 ## 各式项目
