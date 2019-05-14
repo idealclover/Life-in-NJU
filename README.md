@@ -83,3 +83,5 @@
 ### 小程序
 
 🚧[南大小百合的微信小程序&后台服务](https://github.com/Flamingo-Team/LittleLily-Wechat-Service) by [@Flamingo-Team](https://github.com/Flamingo-Team)
+
+[南京大学失物招领平台小程序](https://github.com/hackathonwithlonglongname/MiniWorld) by [hackathonwithlonglongname](https://github.com/hackathonwithlonglongname)
