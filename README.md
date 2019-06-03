@@ -81,7 +81,7 @@
 * [南京大学云盘](https://box.nju.edu.cn/)
 
   校内的云盘，同样由人工微结构科学与技术协同创新中心维护，但由于经费问题只服务部分在校师生，具体包括：
-  
+
   * 全校在编教职工、博士后、博士生
   * 物理学院、电子科学与工程学院、现代工程与应用工程学院、化学化工学院、匡亚明学院的所有人员
   * 理科试验班(数理科学类)、电子信息类、工科试验班、理科试验班类(化学与生命科学类)大类招生尚未分流的本科生
@@ -118,6 +118,10 @@
 * [(软院)专业课复习资料](https://github.com/NJU-SE-15-share-review/professional-class) by [@NJU-SE-15-share-review](https://github.com/NJU-SE-15-share-review)
 
   15 级软院项目，整理了软院的课程复习资料。
+
+* [南京大学悦读经典计划电子图书数据库](http://njdxydjd.mh.libsou.com)
+
+  南京大学悦读经典计划的基本书目，扩展书目全在里面~ 还有电子资源的下载~
 
 * [南京大学计算机2019考研](https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki) by [@ThyrixYang](https://github.com/ThyrixYang)
 
@@ -187,3 +191,6 @@
 
 * [Office in Education](https://products.office.com/en-us/student?tab=students)
   微软家提供的免费 Office 365 教育优惠，虽说中国大多数学校无缘申请，但很不幸南哪**可以**享受这份 365 套餐，不过只能使用桌面版的 Office 365 emmm
+
+* [AWS Student](https://aws.amazon.com/cn/education/awseducate/)
+  亚马逊 AWS 学生包，大多数中国学校无法申请，使用南哪电子邮箱实测**可以**申请，不过需要控制额度
