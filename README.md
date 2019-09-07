@@ -44,7 +44,7 @@
 
 网络接入本是一项头疼的问题，但是在推出了并发两线程和无感知认证服务([2019.5.5](http://bbs.nju.edu.cn/bbstcon?board=M_NIC&file=M.1558703193.A))后，变得异常简单轻松并无需反复登录。故其实很多项目用不太到了，但在次列出一些过往项目，如有需要可供参考。
 
-* 命令行登录校园网(Windows,MacOS,Linux均可用):`curl http://p.nju.edu.cn/portal_io/login -X POST -d "username=你的学号&password=你的密码"`
+* 命令行登录校园网(Windows,MacOS,Linux均可用):`curl http://p.nju.edu.cn/portal_io/login -X POST -d "username=你的学号&password=你的密码"`  by [@zsnjuts](https://github.com/zsnjuts)
 * [自动连接校园网(Python)](https://github.com/forewing/LogInAutomatic) by [@forewing](https://github.com/forewing)
 * [自动连接校园网(Mac)](https://github.com/songkuixi/NJULogin-Mac) by [@songkuixi](https://github.com/songkuixi)
 * [自动连接校园网(Android)](https://github.com/LilyStudio/AutoConnect-Android) by [@padeoe](https://github.com/padeoe)
