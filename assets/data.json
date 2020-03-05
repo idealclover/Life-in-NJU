@@ -1,0 +1,192 @@
+[
+    {
+        "title": "南大生活",
+        "items": [
+            {
+                "name": "南大官网",
+                "link": "http://www.nju.edu.cn/",
+                "description": "南哪大学官网w"
+            },
+            {
+                "name": "校园网登录",
+                "link": "http://p.nju.edu.cn/",
+                "description": "大名鼎鼎的 py 网（不是）"
+            },
+            {
+                "name": "教务系统",
+                "link": "http://elite.nju.edu.cn/jiaowu/",
+                "description": "密码是大小写字母加数字"
+            },
+            {
+                "name": "学生邮件系统",
+                "link": "http://mail.smail.nju.edu.cn/",
+                "description": "经常容易忘密码"
+            },
+            {
+                "name": "正版软件",
+                "link": "https://itsc.nju.edu.cn/zbrj/list.htm",
+                "description": "Windows, Adobe 正版软件在上面"
+            },
+            {
+                "name": "小百合 BBS",
+                "link": "http://bbs.nju.edu.cn/",
+                "description": "一些重要通知会在上面"
+            },
+            {
+                "name": "VPN 服务",
+                "link": "http://vpn.nju.edu.cn/",
+                "description": "寒暑假在家登校园网用"
+            },
+            {
+                "name": "图书馆服务",
+                "link": "http://lib.nju.edu.cn/#Page3",
+                "description": "查资源，约研讨间"
+            },
+            {
+                "name": "国际交流合作处",
+                "link": "http://stuex.nju.edu.cn/",
+                "description": "交流交换的项目信息"
+            },
+            {
+                "name": "学生综合服务平台",
+                "link": "http://xsgl.nju.edu.cn/",
+                "description": "奖学金助学金、寒暑假登记"
+            },
+            {
+                "name": "悦读经典计划电子图书数据库",
+                "link": "http://njdxydjd.mh.libsou.com/",
+                "description": "悦读经典计划的电子图书资源"
+            },
+            {
+                "name": "紫荆站",
+                "link": "http://zijingbt.njuftp.org/index.html",
+                "description": "一个神秘的网站~"
+            }
+        ]
+    },
+    {
+        "title": "学生项目",
+        "items": [
+            {
+                "name": "南哪课表",
+                "link": "http://download.weigongju.org/79814667992",
+                "description": "南哪人的专属课程表 APP"
+            },
+            {
+                "name": "课程评估自动化",
+                "link": "https://fuck.idealclover.cn/",
+                "description": "每学期的课程评估简直噩梦"
+            }
+        ]
+    },
+    {
+        "title": "PPT 模板",
+        "items": [
+            {
+                "name": "UI 设计师导航网",
+                "link": "http://so.uigreat.com/",
+                "description": "做设计的同学必备的网站，收录很全"
+            },
+            {
+                "name": "OfficePLUS",
+                "link": "http://www.officeplus.cn/Template/Home.shtml",
+                "description": "微软Office官方的模板网站~"
+            },
+            {
+                "name": "51PPT 模板网",
+                "link": "http://www.51pptmoban.com/ppt/",
+                "description": "一个还不错的 PPT 模板网站"
+            },
+            {
+                "name": "稻壳儿 docer",
+                "link": "https://www.docer.com/",
+                "description": "金山的模板网站，会员模板质量蛮高"
+            }
+        ]
+    },
+    {
+        "title": "数据报告",
+        "items": [
+            {
+                "name": "199IT互联网数据中心",
+                "link": "http://www.199it.com/",
+                "description": "一个很全的互联网数据网站"
+            },
+            {
+                "name": "国家统计局",
+                "link": "http://www.stats.gov.cn/",
+                "description": "宏观数据来这准没错"
+            },
+            {
+                "name": "易观分析报告",
+                "link": "https://www.analysys.cn/article/analysis/1",
+                "description": "第三方互联网数据咨询机构"
+            },
+            {
+                "name": "艾瑞咨询",
+                "link": "https://www.iresearch.com.cn/",
+                "description": "第三方互联网数据咨询机构"
+            }
+        ]
+    },
+    {
+        "title": "学术研究",
+        "items": [
+            {
+                "name": "中国知网",
+                "link": "https://www.cnki.net/",
+                "description": "无人不知无人不晓的知网，除了翟天临"
+            },
+            {
+                "name": "谷歌学术搜索",
+                "link": "https://scholar.google.com/",
+                "description": "谷歌学术搜索"
+            },
+            {
+                "name": "arxiv",
+                "link": "https://arxiv.org/",
+                "description": "占坑网站（划去）预印本网站"
+            }
+        ]
+    },
+    {
+        "title": "实习求职",
+        "items": [
+            {
+                "name": "阿里校招",
+                "link": "https://campus.alibaba.com/index.htm",
+                "description": "实习生 & 应届生"
+            },
+            {
+                "name": "腾讯校招",
+                "link": "https://join.qq.com/index.php",
+                "description": "实习生 & 应届生"
+            },
+            {
+                "name": "字节跳动校招",
+                "link": "https://job.bytedance.com/campus/",
+                "description": "就是所说的今日头条和抖音"
+            }
+        ]
+    },
+    {
+        "title": "投稿建议",
+        "items": [
+            {
+                "name": "投稿与建议",
+                "link": "https://github.com/idealclover/life-in-nju/issues",
+                "description": "在这里新建 issues"
+            },
+            {
+                "name": "项目 GitHub 地址",
+                "link": "https://github.com/idealclover/life-in-nju",
+                "description": "网站的源代码存放于此"
+            },
+            {
+                "name": "idealclover",
+                "link": "https://idealclover.top",
+                "description": "作者傻翠的个人网站"
+            }
+        ]
+    }
+]
