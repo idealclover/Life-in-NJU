@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da6c081b48dd417341a0",
+    "revision": "7d5068b18121312321cc",
     "url": "/css/app.a9335c10.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "4ac79a60033250465ac62271f10787b3",
+    "revision": "26de60d4b0f4b1cac0bcce3d5324fca5",
     "url": "/index.html"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/AddToHomeScreen.js"
   },
   {
-    "revision": "da6c081b48dd417341a0",
-    "url": "/js/app.9d5db3b5.js"
+    "revision": "7d5068b18121312321cc",
+    "url": "/js/app.8ea55eba.js"
   },
   {
     "revision": "56b788939438ddbf1c7a",
