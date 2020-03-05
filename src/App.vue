@@ -82,8 +82,15 @@
           </v-expansion-panel>
         </v-expansion-panels>
       </v-container>
-      <v-col class="text-center white--text" style="background-color: rgba(0,0,0,.2);" cols="12">
-        ©{{ new Date().getFullYear() }} <a href="https://idealclover.top" class="white--text" target="_blank">idealclover</a>
+      <v-col
+        class="text-center white--text"
+        style="background-color: rgba(0,0,0,.2);"
+        cols="12"
+      >
+        ©{{ new Date().getFullYear() }}
+        <a href="https://idealclover.top" class="white--text" target="_blank"
+          >idealclover</a
+        >
       </v-col>
       <v-snackbar v-model="snackbar">
         {{ snackText }}
@@ -122,9 +129,7 @@ const store = new Vuex.Store({
 export default {
   name: "App",
   mounted() {
-    axios
-      .get(this.dataUrl + "data.json")
-      .then(response => (this.data = response.data));
+    axios.get("./data.json").then(response => (this.data = response.data));
   },
   data: () => ({
     data: null,

@@ -53,6 +53,11 @@
                 "description": "奖学金助学金、寒暑假登记"
             },
             {
+                "name": "本科毕业论文管理系统",
+                "link": "http://nju.co.cnki.net/",
+                "description": "一些毕业论文材料提交的地方"
+            },
+            {
                 "name": "悦读经典计划电子图书数据库",
                 "link": "http://njdxydjd.mh.libsou.com/",
                 "description": "悦读经典计划的电子图书资源"
@@ -71,6 +76,16 @@
                 "name": "南哪课表",
                 "link": "http://download.weigongju.org/79814667992",
                 "description": "南哪人的专属课程表 APP"
+            },
+            {
+                "name": "南京大学学位论文XeLaTeX模板",
+                "link": "https://github.com/Haixing-Hu/nju-thesis",
+                "description": "毕业论文的XeLaTeX模板"
+            },
+            {
+                "name": "南京大学本科毕业论文Latex模板",
+                "link": "https://github.com/ZLCao/NJUBachelor",
+                "description": "本科毕业论文的Latex模板"
             },
             {
                 "name": "课程评估自动化",
@@ -172,6 +187,11 @@
     {
         "title": "投稿建议",
         "items": [
+            {
+                "name": "讨论群",
+                "link": "https://jq.qq.com/?_wv=1027&k=5hsPQa6",
+                "description": "加入讨论群提出意见建议！"
+            },
             {
                 "name": "投稿与建议",
                 "link": "https://github.com/idealclover/life-in-nju/issues",
