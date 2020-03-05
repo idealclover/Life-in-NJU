@@ -153,8 +153,8 @@ export default {
   }),
   methods: {
     open: function(link) {
-      window.location.href = link;
-      // window.open(link);
+      // window.location.href = link;
+      window.open(link);
     },
     search: function() {
       let value = this.value;
