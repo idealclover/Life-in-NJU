@@ -24,4 +24,4 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACCESS_TOKEN }}
           publish_dir: ./dist
-          cname: lifeinnju.today
+          cname: nju.today
