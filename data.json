@@ -1,31 +1,46 @@
 [
     {
-        "title": "南大生活",
+        "title": "新生必读",
         "items": [
             {
-                "name": "南大官网",
-                "link": "http://www.nju.edu.cn/",
-                "description": "南哪大学官网w"
+                "name": "南大迎新网",
+                "link": "https://admission.nju.edu.cn/",
+                "description": "本科新生入学通知基本都在这里"
             },
+            {
+                "name": "统一身份认证说明",
+                "link": "https://itsc.nju.edu.cn/tysfrz/list.htm",
+                "description": "一定要认真看，这个密码很重要~"
+            },
+            {
+                "name": "南京大学信息门户",
+                "link": "https://mp.weixin.qq.com/s/dUtlDB87BJ8ybJJxgkm5vg",
+                "description": "微信版南大综合服务，非常非常好用"
+            },
+            {
+                "name": "在校学生必看",
+                "link": "https://www.nju.edu.cn/47/41/c2695a83777/page.htm",
+                "description": "学校官方在校学生导航页，囊括在校生最常用的资源"
+            },
+            {
+                "name": "南大生活指南2019",
+                "link": "https://www.yuque.com/gerongcun/njugeo/njuguidebook",
+                "description": "鼓楼仙林本科生研究生方方面面的超全整理"
+            },
+            {
+                "name": "官方微信目录",
+                "link": "https://www.nju.edu.cn/3687/list.htm",
+                "description": "南大官方微信号目录"
+            }
+        ]
+    },
+    {
+        "title": "南大生活",
+        "items": [
             {
                 "name": "校园网登录",
                 "link": "http://p.nju.edu.cn/",
                 "description": "大名鼎鼎的 py 网（不是）"
-            },
-            {
-                "name": "教务系统",
-                "link": "http://elite.nju.edu.cn/jiaowu/",
-                "description": "密码是大小写字母加数字"
-            },
-            {
-                "name": "学生邮件系统",
-                "link": "http://mail.smail.nju.edu.cn/",
-                "description": "经常容易忘密码"
-            },
-            {
-                "name": "正版软件",
-                "link": "https://itsc.nju.edu.cn/zbrj/list.htm",
-                "description": "Windows, Adobe 正版软件在上面"
             },
             {
                 "name": "小百合 BBS",
@@ -33,29 +48,134 @@
                 "description": "一些重要通知会在上面"
             },
             {
-                "name": "VPN 服务",
-                "link": "http://vpn.nju.edu.cn/",
-                "description": "寒暑假在家登校园网用"
+                "name": "学生服务",
+                "link": "http://xsgl.nju.edu.cn",
+                "description": "奖学金、勤工俭学、调整宿舍常用"
+            },
+            {
+                "name": "本科学工通讯录",
+                "link": "https://xgc.nju.edu.cn/1799/list.htm",
+                "description": "本科辅导员办公室电话大全，实在不行问问辅导员"
+            },
+            {
+                "name": "研究生学籍",
+                "link": "https://grawww.nju.edu.cn/921/list.htm",
+                "description": "研究生的学籍注册、补办研究生证、在读证明等等"
+            },
+            {
+                "name": "仙林设施",
+                "link": "https://zcc.nju.edu.cn//dzdt/xlxqdt/index.html",
+                "description": "仙林校区的一些餐厅、运动场地等设施"
+            },
+            {
+                "name": "鼓楼设施",
+                "link": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+                "description": "鼓楼校区的一些餐厅、运动场地等设施"
+            },
+            {
+                "name": "校园服务",
+                "link": "https://www.nju.edu.cn/3688/list.htm",
+                "description": "包含你最关心的南大校历、各单位电话大全"
+            },
+            {
+                "name": "宿舍咨询",
+                "link": "https://zcc.nju.edu.cn//jgsz/zfglk/index.html",
+                "description": "管理住宿相关的老师的管辖范围和联系方式~"
+            },
+            {
+                "name": "宿管电话",
+                "link": "https://hqjt.nju.edu.cn/ldwygl/88/9a/c2276a34970/page.htm",
+                "description": "每个宿舍楼栋宿管的电话都在这儿了"
+            },
+            {
+                "name": "学生医保",
+                "link": "http://xsyb.nju.edu.cn/",
+                "description": "（需要校园网）学生医保管理系统，可以看看自己的医保情况"
+            },
+            {
+                "name": "体检疫苗",
+                "link": "https://hospital.nju.edu.cn/SelfHelp/",
+                "description": "体检和疫苗自助平台"
+            },
+            {
+                "name": "校医值班",
+                "link": "https://hospital.nju.edu.cn//yyjs/ylfw/20190918/i24828.html",
+                "description": "校医院各个科目的值班时间表"
+            },
+            {
+                "name": "校医科室",
+                "link": "https://hospital.nju.edu.cn//jyzn/kssz/index.html",
+                "description": "校医院各个科室的信息和联系方式"
+            },
+            {
+                "name": "户籍管理",
+                "link": "https://bwc.nju.edu.cn/bszn/bmfw/index.html",
+                "description": "害，集体户口问题确实麻烦QwQ"
+            },
+            {
+                "name": "快递收发",
+                "link": "https://www.yuque.com/gerongcun/njugeo/njuguidebook#pA28r",
+                "description": "你说的这个快递街，它到底在哪？"
+            },
+            {
+                "name": "快递代取",
+                "link": "https://mp.weixin.qq.com/s/YP5J7wZvldwDaRZ30R_x3w",
+                "description": "（仅限仙林）野生快递小哥出没，快抓住他"
+            }
+        ]
+    },
+    {
+        "title": "学习科研",
+        "items": [
+            {
+                "name": "教务系统",
+                "link": "http://elite.nju.edu.cn/jiaowu/",
+                "description": "密码是大小写字母加数字"
+            },
+            {
+                "name": "研究生学籍与教学管理系统",
+                "link": "http://pyb.nju.edu.cn/",
+                "description": "研究生版教务系统"
+            },
+            {
+                "name": "本科生培养方案",
+                "link": "https://jw.nju.edu.cn/24794/list.htm",
+                "description": "转专业、分流的朋友注意了"
+            },
+            {
+                "name": "研究生培养方案",
+                "link": "https://grawww.nju.edu.cn/918/list.htm",
+                "description": "研究生朋友可能更关注毕业条件？"
+            },
+            {
+                "name": "图书馆书籍检索",
+                "link": "http://opac.nju.edu.cn/#/Home",
+                "description": "快看看你想看的书它有没有、在哪找"
+            },
+            {
+                "name": "图书馆电子资源",
+                "link": "http://lib.nju.edu.cn/dzzy/dzzy_sjkdh.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013",
+                "description": "学校购买的各种学术期刊数据库目录"
+            },
+            {
+                "name": "校外文献访问（CARSI）",
+                "link": "http://lib.nju.edu.cn/info/1012/2764.htm",
+                "description": "只需要统一身份认证就可以校外使用学校购买的部分文献~"
+            },
+            {
+                "name": "图书馆指南",
+                "link": "http://mooc1.chaoxing.com/zt/200026884.html",
+                "description": "图书馆出品的新生指南，教你怎么用图书馆"
+            },
+            {
+                "name": "研讨间预约",
+                "link": "http://lib.nju.edu.cn/rmfw/sbfw/yjxjyy.htm",
+                "description": "（需要校园网）在图书馆研讨间愉快地讨（wan）论（shua）"
             },
             {
                 "name": "图书馆服务",
-                "link": "http://lib.nju.edu.cn/#Page3",
-                "description": "查资源，约研讨间"
-            },
-            {
-                "name": "国际交流合作处",
-                "link": "http://stuex.nju.edu.cn/",
-                "description": "交流交换的项目信息"
-            },
-            {
-                "name": "学生综合服务平台",
-                "link": "http://xsgl.nju.edu.cn/",
-                "description": "奖学金助学金、寒暑假登记"
-            },
-            {
-                "name": "本科毕业论文管理系统",
-                "link": "http://nju.co.cnki.net/",
-                "description": "一些毕业论文材料提交的地方"
+                "link": "http://lib.nju.edu.cn/index.htm#Page3",
+                "description": "图书馆热门服务，不知"
             },
             {
                 "name": "悦读经典计划电子图书数据库",
@@ -63,9 +183,254 @@
                 "description": "悦读经典计划的电子图书资源"
             },
             {
-                "name": "紫荆站",
-                "link": "http://zijingbt.njuftp.org/index.html",
-                "description": "一个神秘的网站~"
+                "name": "拔尖计划",
+                "link": "http://elite.nju.edu.cn/",
+                "description": "基础学科拔尖学生培养试验计划，属于大佬的网站"
+            },
+            {
+                "name": "交换生系统",
+                "link": "http://elite.nju.edu.cn/exchangesystem/",
+                "description": "本科阶段交流生和访问学生的一些信息"
+            },
+            {
+                "name": "国际交流合作处",
+                "link": "http://stuex.nju.edu.cn/",
+                "description": "交流交换的项目信息"
+            },
+            {
+                "name": "高性能计算中心",
+                "link": "https://hpc.nju.edu.cn/",
+                "description": "由人工微结构科学与技术协同创新中心管理，对全校课题组开放的共享资源"
+            }
+        ]
+    },
+    {
+        "title": "课程常用",
+        "items": [
+            {
+                "name": "体测打卡",
+                "link": "https://tyb.nju.edu.cn/",
+                "description": "体育部网站，打卡次数、体测成绩都在它的“阳光体育查询系统”上"
+            },
+            {
+                "name": "悦读经典计划",
+                "link": "https://study.nju.edu.cn/home/index.mooc",
+                "description": "悦读经典的慕课网站"
+            },
+            {
+                "name": "中国大学慕课",
+                "link": "https://www.icourse163.org/",
+                "description": "一个可能会用到的慕课网站"
+            },
+            {
+                "name": "教学立方",
+                "link": "https://teaching.applysquare.com/",
+                "description": "又一个可能会用到的慕课网站"
+            },
+            {
+                "name": "超星尔雅",
+                "link": "http://nju.fanya.chaoxing.com/portal",
+                "description": "又又一个可能会用到的慕课网站"
+            },
+            {
+                "name": "智慧树在线",
+                "link": "https://www.zhihuishu.com/",
+                "description": "又又又一个可能会用到的慕课网站"
+            },
+            {
+                "name": "大学外语训练中心",
+                "link": "http://eol.nju.edu.cn/",
+                "description": "英语课也许会用到的网站"
+            }
+        ]
+    },
+    {
+        "title": "办理流程",
+        "items": [
+            {
+                "name": "校园卡补办",
+                "link": "https://itsc.nju.edu.cn/21446/list.htm",
+                "description": "记得先在微信“南京大学信息门户”或南大APP挂失哦~"
+            },
+            {
+                "name": "本科生办事流程",
+                "link": "https://jw.nju.edu.cn/24739/list.htm",
+                "description": "学生证补办、火车票、缓修等流程"
+            },
+            {
+                "name": "研究生办事流程",
+                "link": "https://grawww.nju.edu.cn/906/list.htm",
+                "description": "学位证明、学历证明、研究生证补办等流程"
+            },
+            {
+                "name": "本科常用下载",
+                "link": "https://jw.nju.edu.cn/24683/list1.htm",
+                "description": "教务网上本科常用的一些下载文件"
+            }
+        ]
+    },
+    {
+        "title": "课外活动",
+        "items": [
+            {
+                "name": "第二课堂",
+                "link": "https://youth.nju.edu.cn/",
+                "description": "（需要校园网）包含志愿服务申请，可以查看最近的社团活动"
+            },
+            {
+                "name": "南大就业",
+                "link": "http://job.nju.edu.cn/",
+                "description": "就业相关的有用信息"
+            },
+            {
+                "name": "大学生创新训练智能管理系统",
+                "link": "http://desktop.nju.edu.cn/CXCY",
+                "description": "（需要校园网）创新训练的公示等等信息"
+            }
+        ]
+    },
+    {
+        "title": "毕业专题",
+        "items": [
+            {
+                "name": "本科毕业论文管理系统",
+                "link": "http://nju.co.cnki.net/",
+                "description": "一些毕业论文材料提交的地方"
+            }
+        ]
+    },
+    {
+        "title": "信息服务",
+        "items": [
+            {
+                "name": "统一身份认证平台",
+                "link": "http://authserver.nju.edu.cn/authserver/login",
+                "description": "到处都需要这个东西来登录，从这里可以进行登录设置和查询"
+            },
+            {
+                "name": "南大邮箱",
+                "link": "https://mail.smail.nju.edu.cn/",
+                "description": "全日制学生人手一个，可以用来薅免费教育版软件、教育优惠"
+            },
+            {
+                "name": "正版软件",
+                "link": "https://itsc.nju.edu.cn/zbrj/list.htm",
+                "description": "学校购买的Windows、Office、Adobe等常用正版软件"
+            },
+            {
+                "name": "VPN客户端",
+                "link": "https://vpn.nju.edu.cn/",
+                "description": "VPN客户端，可以访问只有校园网才能访问的全部资源"
+            },
+            {
+                "name": "VPN网页版",
+                "link": "https://vpn3.nju.edu.cn/",
+                "description": "无需下载客户端，可以访问只有校园网才能访问的全部资源"
+            },
+            {
+                "name": "网络认证自助服务",
+                "link": "http://bras.nju.edu.cn",
+                "description": "（需要校园网）查看自己的校园网账户的相关信息"
+            },
+            {
+                "name": "工作管理服务考核",
+                "link": "http://eval.nju.edu.cn/login.aspx",
+                "description": "师生满意度网络测评系统，有时候学校会在这里发放考核问卷~"
+            },
+            {
+                "name": "校园卡网络自助服务系统",
+                "link": "https://oa.nju.edu.cn/ecard/",
+                "description": "（需要校园网）查看校园卡信息，可以下载校园卡黑照"
+            },
+            {
+                "name": "南大APP（旧版）",
+                "link": "http://mm.nju.edu.cn/",
+                "description": "南大校内常用的各种功能集成APP"
+            },
+            {
+                "name": "南大APP（新版）",
+                "link": "https://webplus.nju.edu.cn/_s302/34/cd/c21607a472269/page.psp",
+                "description": "新版南大APP"
+            },
+            {
+                "name": "网络电视",
+                "link": "http://tv.nju.edu.cn/",
+                "description": "（需要校园网）神奇的电视网站，薛定谔的直播信号"
+            },
+            {
+                "name": "Eduroam",
+                "link": "https://itsc.nju.edu.cn/21436/list.htm",
+                "description": "全球教育科研机构无线网络漫游"
+            },
+            {
+                "name": "邮箱别名",
+                "link": "http://mailm.nju.edu.cn:8080",
+                "description": "学生邮箱一堆数字看起来一点也不时髦？试试这个"
+            },
+            {
+                "name": "科研云盘",
+                "link": "https://box.nju.edu.cn",
+                "description": "物化匡电子现工本科生和全校教职工、博后博士生可用，功能强大"
+            },
+            {
+                "name": "南大测速站",
+                "link": "https://test.nju.edu.cn",
+                "description": "可以测IPv4和IPv6两种的连接速度哦~"
+            },
+            {
+                "name": "南大开源镜像",
+                "link": "https://mirrors.nju.edu.cn/",
+                "description": "南大开源镜像站，据说又大又全"
+            },
+            {
+                "name": "南大Git",
+                "link": "https://git.nju.edu.cn/",
+                "description": "南大校内Git托管，程序员都懂"
+            }
+        ]
+    },
+    {
+        "title": "实用服务",
+        "items": [
+            {
+                "name": "南京大学表白墙",
+                "link": "https://mp.weixin.qq.com/s/lD85lcB877RVPijOifIENQ",
+                "description": "非官方非盈利，万能墙，可吃瓜"
+            },
+            {
+                "name": "南京大学权服侠",
+                "link": "https://mp.weixin.qq.com/s/7t6nTsanou_EDx4nqCU58A",
+                "description": "官方非盈利，校学生会出品，学生权益问题、失物招领都可以找他"
+            },
+            {
+                "name": "NJU助手",
+                "link": "https://tieba.baidu.com/p/3987890319",
+                "description": "非官方非盈利，关注南大校园生活"
+            },
+            {
+                "name": "IT侠",
+                "link": "https://itxia.club",
+                "description": "非官方非营利学生社团，提供校内电脑软硬件免费维修和技术交流"
+            },
+            {
+                "name": "紫荆PT站",
+                "link": "http://zijingbt.njuftp.org",
+                "description": "（需要校园网）校内PT资源站，有非常丰富的资源，到毕业还不知道你真亏了"
+            }
+        ]
+    },
+    {
+        "title": "趣味南大",
+        "items": [
+            {
+                "name": "招标办公室",
+                "link": "http://zb.nju.edu.cn/",
+                "description": "来看看学校最近又买了啥~"
+            },
+            {
+                "name": "数据中心",
+                "link": "https://data.nju.edu.cn",
+                "description": "里面记载了一些令人血脉偾张的数据（狗头）"
             }
         ]
     },
