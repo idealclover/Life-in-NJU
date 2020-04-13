@@ -37,6 +37,11 @@ header {
 .panel.flex.d-flex.flex-column.v-card.v-card--link.v-card--outlined.v-sheet.v-sheet--tile.theme--light:hover {
 	background-color: white !important;
 }
+.ma-0.flex {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
 .text-center.white--text.col.col-12 {
 	font-size: small;
 	-webkit-backdrop-filter: blur(20px);
