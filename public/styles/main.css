@@ -2,6 +2,10 @@ body {
 	-webkit-user-select: none;
 	user-select: none;
 }
+#web_bg {
+	background-position: center !important;
+	/*background-image: url("https://raw.githubusercontent.com/idealclover/Life-in-NJU/debug/assets/background/bg0.jpg") !important;*//*测试用*/
+}
 header {
 	box-shadow: rgba(0,0,0,.2) 0 2px 5px !important;
 	-webkit-backdrop-filter: blur(20px);
