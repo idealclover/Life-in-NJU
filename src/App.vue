@@ -66,6 +66,7 @@
                     tile
                     @click="item.link == '' ? null : open(item.link)"
                     class="panel flex d-flex flex-column"
+                    :title="item.description"
                   >
                     <v-card-text>
                       <p class="ma-0 font-weight-black">
