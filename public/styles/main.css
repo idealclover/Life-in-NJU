@@ -42,9 +42,9 @@ header {
 	background-color: white !important;
 }
 .ma-0.flex {
-	overflow: hidden;
+	/* overflow: hidden;
 	white-space: nowrap;
-	text-overflow: ellipsis;
+	text-overflow: ellipsis; */
 }
 .text-center.white--text.col.col-12 {
 	font-size: small;
