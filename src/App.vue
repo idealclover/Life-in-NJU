@@ -48,6 +48,7 @@
                 rounded
                 color="rgba(0,0,0,.2)"
                 dark
+                class="searchOpt"
                 @click="changeEngine(0)"
               >
                 <i class="iconfont" id="iconBaidu">&#xe6b6;</i>
@@ -59,6 +60,7 @@
                 rounded
                 color="rgba(0,0,0,.2)"
                 dark
+                class="searchOpt"
                 @click="changeEngine(1)"
               >
                 <i class="iconfont" id="iconBing">&#xe63f;</i>
@@ -70,6 +72,7 @@
                 rounded
                 color="rgba(0,0,0,.2)"
                 dark
+                class="searchOpt"
                 @click="changeEngine(2)"
               >
                 <i class="iconfont" id="iconGoogle">&#xe719;</i>
@@ -222,30 +225,3 @@ export default {
   }
 };
 </script>
-
-<style>
-#web_bg {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background-position: center 0;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  /* 兼容Webkit内核浏览器如Chrome和Safari */
-  -webkit-background-size: cover;
-  /* 兼容Opera */
-  -o-background-size: cover;
-  zoom: 1;
-}
-.logo-item {
-  width: 210px;
-  height: 70px;
-}
-.panels,
-.panel {
-  background: rgba(255, 255, 255, 0.7) !important;
-}
-</style>

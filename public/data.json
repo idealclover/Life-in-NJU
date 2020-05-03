@@ -122,7 +122,6 @@
                 "link": "http://lib.nju.edu.cn/rmfw/sbfw/yjxjyy.htm",
                 "description": "（需要校园网）在图书馆研讨间愉快地讨（wan）论（shua）"
             },
-
             {
                 "name": "课程网站",
                 "link": "https://www.yuque.com/ff282l/gm8kgc/sr0kbw",
@@ -224,6 +223,11 @@
         "title": "学生项目",
         "items": [
             {
+                "name": "南哪指南",
+                "link": "https://github.com/idealclover/life-in-nju",
+                "description": "就是本项目！"
+            },
+            {
                 "name": "南哪课表",
                 "link": "http://download.weigongju.org/79814667992",
                 "description": "南哪人的专属课程表 APP"
@@ -262,21 +266,31 @@
                 "name": "项目 GitHub 地址",
                 "link": "https://github.com/idealclover/life-in-nju",
                 "description": "网站的源代码存放于此"
-            },
+            }
+        ]
+    },
+    {
+        "title": "友情链接",
+        "items": [
             {
                 "name": "idealclover",
                 "link": "https://idealclover.top",
                 "description": "@idealclover 是本项目的发起人"
             },
             {
-                "name": "maorx",
+                "name": "毛若昕",
                 "link": "https://maorx.cn/",
-                "description": "@maorx 负责本项目的设计工作"
+                "description": "@毛若昕 负责本项目的设计建议和背景图片摄影"
             },
             {
-                "name": "ladderoperator",
+                "name": "LadderOperator",
                 "link": "https://ladderoperator.top/",
-                "description": "@ladderoperator 负责本项目的数据整理"
+                "description": "@LadderOperator 负责本项目的数据整理"
+            },
+            {
+                "name": "zgq354",
+                "link": "https://blog.izgq.net/",
+                "description": "@zgq354 负责本项目的性能优化"
             }
         ]
     }
