@@ -2,7 +2,7 @@
   <v-app style="background: rgba(0,0,0,0);">
     <div
       id="web_bg"
-      :style="'background-image: url(' + dataUrl + 'background/bg1.jpg);'"
+      :style="'background-image: url(' + imgUrl + ');'"
     ></div>
     <v-app-bar app color="rgba(0,0,0,.2)" dark flat fixed>
       <v-toolbar-title>Life In NJU</v-toolbar-title>
@@ -15,7 +15,7 @@
       </v-icon>
       <v-icon
         class="shareLink"
-        data-clipboard-text="https://idealclover.github.io/Life-in-NJU/"
+        data-clipboard-text="https://nju.today"
         @click="showToast('链接已复制，快分享给小伙伴吧！')"
       >
         mdi-open-in-new
@@ -111,6 +111,7 @@ import Vue from "vue";
 import Vuex from "vuex";
 
 const dataUrl = "https://image.idealclover.cn/projects/Life-in-NJU/";
+const imgUrl = dataUrl + "background/bg" + Math.floor(Math.random() * 10) + ".jpg";
 
 new Clipboard(".shareLink");
 Vue.use(Vuex);
@@ -136,6 +137,7 @@ export default {
     data: null,
     value: "",
     dataUrl: dataUrl,
+    imgUrl: imgUrl,
     snackbar: false,
     snackText: "",
     engineIndex: store.state.engineIndex,
