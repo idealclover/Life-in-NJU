@@ -1,0 +1,30 @@
+{
+  "id": "1796423",
+  "name": "life-in-nju",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "386278",
+      "name": "baidu",
+      "font_class": "baidu",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "929420",
+      "name": "google",
+      "font_class": "google",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "3876349",
+      "name": "bing",
+      "font_class": "bing",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    }
+  ]
+}

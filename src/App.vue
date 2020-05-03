@@ -1,9 +1,6 @@
 <template>
   <v-app style="background: rgba(0,0,0,0);">
-    <div
-      id="web_bg"
-      :style="'background-image: url(' + imgUrl + ');'"
-    ></div>
+    <div id="web_bg" :style="'background-image: url(' + imgUrl + ');'"></div>
     <v-app-bar app color="rgba(0,0,0,.2)" dark flat fixed>
       <v-toolbar-title>Life In NJU</v-toolbar-title>
       <v-spacer></v-spacer>
@@ -11,7 +8,7 @@
         @click="open('https://github.com/idealclover/Life-in-NJU')"
         class="mx-3"
       >
-        mdi-github-circle
+        mdi-github
       </v-icon>
       <v-icon
         class="shareLink"
@@ -27,18 +24,58 @@
           <v-img
             class="logo-item"
             :src="engineList[engineIndex]['src']"
-            @click="changeEngine"
+            @click="nextEngine"
           ></v-img>
           <v-text-field
             flat
             solo
-            class="my-10"
+            class="mt-10"
             label="Search"
             v-model="value"
             append-icon="search"
             @click:append="search"
             @keyup.enter="search"
           ></v-text-field>
+          <v-row
+            class="mb-10"
+            align="center"
+            justify="center"
+            id="searchOptBox"
+          >
+            <div class="text-center mx-4">
+              <v-btn
+                depressed
+                rounded
+                color="rgba(0,0,0,.2)"
+                dark
+                @click="changeEngine(0)"
+              >
+                <i class="iconfont" id="iconBaidu">&#xe6b6;</i>
+              </v-btn>
+            </div>
+            <div class="text-center mx-4">
+              <v-btn
+                depressed
+                rounded
+                color="rgba(0,0,0,.2)"
+                dark
+                @click="changeEngine(1)"
+              >
+                <i class="iconfont" id="iconBing">&#xe63f;</i>
+              </v-btn>
+            </div>
+            <div class="text-center mx-4">
+              <v-btn
+                depressed
+                rounded
+                color="rgba(0,0,0,.2)"
+                dark
+                @click="changeEngine(2)"
+              >
+                <i class="iconfont" id="iconGoogle">&#xe719;</i>
+              </v-btn>
+            </div>
+          </v-row>
         </v-col>
       </v-container>
       <v-container>
@@ -111,27 +148,28 @@ import Vue from "vue";
 import Vuex from "vuex";
 
 const dataUrl = "https://image.idealclover.cn/projects/Life-in-NJU/";
-const imgUrl = dataUrl + "background/bg" + Math.floor(Math.random() * 10) + ".jpg";
+const imgUrl =
+  dataUrl + "background/bg" + Math.floor(Math.random() * 10) + ".jpg";
 
 new Clipboard(".shareLink");
 Vue.use(Vuex);
 
 const store = new Vuex.Store({
   state: {
-    engineIndex: 0
+    engineIndex: 0,
   },
   mutations: {
     changeEngineIndex(state, num) {
       state.engineIndex = num;
-    }
+    },
   },
-  plugins: [createPersiste()]
+  plugins: [createPersiste()],
 });
 
 export default {
   name: "App",
   mounted() {
-    axios.get("./data.json").then(response => (this.data = response.data));
+    axios.get("./data.json").then((response) => (this.data = response.data));
   },
   data: () => ({
     data: null,
@@ -145,14 +183,19 @@ export default {
       {
         name: "baidu",
         url: "https://www.baidu.com/s?wd=",
-        src: dataUrl + "search/baidu-white.png"
+        src: dataUrl + "search/baidu-white.png",
+      },
+      {
+        name: "bing",
+        url: "https://cn.bing.com/search?q=",
+        src: dataUrl + "search/bing-white.png",
       },
       {
         name: "google",
         url: "https://www.google.com/search?q=",
-        src: dataUrl + "search/google-white.png"
-      }
-    ]
+        src: dataUrl + "search/google-white.png",
+      },
+    ],
   }),
   methods: {
     open: function(link) {
@@ -164,15 +207,19 @@ export default {
       this.value = "";
       this.open(this.engineList[this.engineIndex]["url"] + value);
     },
-    changeEngine: function() {
+    changeEngine: function(num) {
+      this.engineIndex = num;
+      store.commit("changeEngineIndex", num);
+    },
+    nextEngine: function() {
       this.engineIndex = (this.engineIndex + 1) % this.engineList.length;
       store.commit("changeEngineIndex", this.engineIndex);
     },
     showToast: function(text) {
       this.snackText = text;
       this.snackbar = true;
-    }
-  }
+    },
+  },
 };
 </script>
 
