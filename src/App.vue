@@ -55,8 +55,8 @@
             <v-expansion-panel-content>
               <v-row>
                 <v-col
-                  class="pa-1"
-                  cols="12"
+                  class="pa-1 d-flex flex-column"
+                  cols="3"
                   lg="3"
                   v-for="(item, i) in category.items"
                   :key="i"
@@ -66,6 +66,7 @@
                     tile
                     @click="item.link == '' ? null : open(item.link)"
                     class="panel flex d-flex flex-column"
+                    :title="item.description"
                   >
                     <v-card-text>
                       <p class="ma-0 font-weight-black">

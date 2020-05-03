@@ -1,0 +1,88 @@
+body {
+	-webkit-user-select: none;
+	user-select: none;
+}
+#web_bg {
+	background-position: center !important;
+	/*background-image: url("https://raw.githubusercontent.com/idealclover/Life-in-NJU/debug/assets/background/bg0.jpg") !important;*//*测试用*/
+}
+header {
+	box-shadow: rgba(0,0,0,.2) 0 2px 5px !important;
+	-webkit-backdrop-filter: blur(20px);
+	backdrop-filter: blur(20px);
+}
+.v-toolbar__title {
+	cursor: default;
+}
+.v-responsive__content {
+	cursor: pointer;
+}
+.v-input__slot {
+	box-shadow: rgba(0,0,0,.1) 0 2px 15px;
+}
+.v-input__slot:hover {
+	box-shadow: rgba(0,0,0,.2) 0 2px 15px;
+}
+/*.v-input__slot:focus {
+	box-shadow: rgba(0,0,0,.2) 0 2px 20px;
+}*/
+.v-expansion-panel.panels {
+	background-color: rgba(255,255,255,.9) !important;
+}
+.v-expansion-panel.panels:hover {
+	background-color: rgba(255,255,255,1) !important;
+}
+.v-expansion-panel.panels.v-expansion-panel--active.v-item--active {
+	background-color: rgba(255,255,255,.7) !important;
+}
+.panel.flex.d-flex.flex-column.v-card.v-card--link.v-card--outlined.v-sheet.v-sheet--tile.theme--light {
+	transition: all .25s;
+}
+.panel.flex.d-flex.flex-column.v-card.v-card--link.v-card--outlined.v-sheet.v-sheet--tile.theme--light:hover {
+	background-color: white !important;
+}
+.ma-0.flex {
+	/* overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis; */
+}
+.text-center.white--text.col.col-12 {
+	font-size: small;
+	-webkit-backdrop-filter: blur(20px);
+	backdrop-filter: blur(20px);
+}
+.text-center.white--text.col.col-12 a {
+	transition: all .25s;
+}
+.text-center.white--text.col.col-12 a:hover {
+	color: rgb(135,180,230) !important;
+}
+
+@supports (-webkit-backdrop-filter: blur(10px)) or (backdrop-filter: blur(10px)) {
+	.v-input__slot {
+		background-color: rgba(255,255,255,.5) !important;
+		-webkit-backdrop-filter: blur(10px);
+		backdrop-filter: blur(10px);
+	}
+	.v-input__slot:hover {
+		background-color: rgba(255,255,255,.7) !important;
+		box-shadow: rgba(0,0,0,.1) 0 2px 15px;
+	}
+	/*.v-input__slot:focus {
+		background-color: rgba(255,255,255,.9) !important;
+		box-shadow: rgba(0,0,0,.1) 0 2px 15px;
+	}
+	.v-expansion-panel::before {
+		-webkit-box-shadow: transparent 0 0 0 !important;
+		box-shadow: transparent 0 0 0 !important;
+	}*/
+	.v-expansion-panel.panels.v-expansion-panel--active.v-item--active {
+		transition-delay: 0.25s;
+		background-color: rgba(255,255,255,.5) !important;
+		-webkit-backdrop-filter: blur(20px);
+		backdrop-filter: blur(20px);
+	}
+	.v-expansion-panel.panels:hover {
+		background-color: rgba(255,255,255,1) !important;
+	}
+}
