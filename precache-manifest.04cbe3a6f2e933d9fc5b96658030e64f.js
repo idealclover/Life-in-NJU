@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d5068b18121312321cc",
+    "revision": "375bce5589547f9b7cd9",
     "url": "/css/app.a9335c10.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "fb0daf63c89c702a72e456334db6ba11",
+    "revision": "82c9cfe46ce24a22b22d51fcb9340534",
     "url": "/index.html"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/AddToHomeScreen.js"
   },
   {
-    "revision": "7d5068b18121312321cc",
-    "url": "/js/app.8ea55eba.js"
+    "revision": "375bce5589547f9b7cd9",
+    "url": "/js/app.26e06f31.js"
   },
   {
     "revision": "56b788939438ddbf1c7a",
@@ -50,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "a6939463aee0f96e103f19b74e2ec224",
+    "url": "/styles/main.css"
   }
 ]);
