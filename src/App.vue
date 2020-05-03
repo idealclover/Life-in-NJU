@@ -56,7 +56,7 @@
               <v-row>
                 <v-col
                   class="pa-1 d-flex flex-column"
-                  cols="3"
+                  cols="12"
                   lg="3"
                   v-for="(item, i) in category.items"
                   :key="i"
