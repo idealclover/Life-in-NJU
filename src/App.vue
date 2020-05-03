@@ -156,20 +156,20 @@ Vue.use(Vuex);
 
 const store = new Vuex.Store({
   state: {
-    engineIndex: 0,
+    engineIndex: 0
   },
   mutations: {
     changeEngineIndex(state, num) {
       state.engineIndex = num;
-    },
+    }
   },
-  plugins: [createPersiste()],
+  plugins: [createPersiste()]
 });
 
 export default {
   name: "App",
   mounted() {
-    axios.get("./data.json").then((response) => (this.data = response.data));
+    axios.get("./data.json").then(response => (this.data = response.data));
   },
   data: () => ({
     data: null,
@@ -183,19 +183,19 @@ export default {
       {
         name: "baidu",
         url: "https://www.baidu.com/s?wd=",
-        src: dataUrl + "search/baidu-white.png",
+        src: dataUrl + "search/baidu-white.png"
       },
       {
         name: "bing",
         url: "https://cn.bing.com/search?q=",
-        src: dataUrl + "search/bing-white.png",
+        src: dataUrl + "search/bing-white.png"
       },
       {
         name: "google",
         url: "https://www.google.com/search?q=",
-        src: dataUrl + "search/google-white.png",
-      },
-    ],
+        src: dataUrl + "search/google-white.png"
+      }
+    ]
   }),
   methods: {
     open: function(link) {
@@ -218,8 +218,8 @@ export default {
     showToast: function(text) {
       this.snackText = text;
       this.snackbar = true;
-    },
-  },
+    }
+  }
 };
 </script>
 
