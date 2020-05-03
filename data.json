@@ -71,6 +71,16 @@
                 "name": "学生服务",
                 "link": "http://xsgl.nju.edu.cn",
                 "description": "奖学金、勤工俭学等常用网站"
+            },
+            {
+                "name": "证件办理",
+                "link": "https://www.yuque.com/ff282l/gm8kgc/bau88f",
+                "description": "校园卡、学生证、研究生证等（补）办理"
+            },
+            {
+                "name": "户籍管理",
+                "link": "https://bwc.nju.edu.cn/bszn/bmfw/index.html",
+                "description": "管理户口迁移等等事务"
             }
         ]
     },
@@ -137,21 +147,6 @@
                 "name": "高性能计算中心",
                 "link": "https://hpc.nju.edu.cn/",
                 "description": "电脑不够算，快找HPC"
-            }
-        ]
-    },
-    {
-        "title": "规章流程",
-        "items": [
-            {
-                "name": "证件办理",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/bau88f",
-                "description": "校园卡、学生证、研究生证等（补）办理"
-            },
-            {
-                "name": "户籍管理",
-                "link": "https://bwc.nju.edu.cn/bszn/bmfw/index.html",
-                "description": "管理户口迁移等等事务"
             }
         ]
     },
@@ -251,96 +246,6 @@
         ]
     },
     {
-        "title": "PPT 模板",
-        "items": [
-            {
-                "name": "UI 设计师导航网",
-                "link": "http://so.uigreat.com/",
-                "description": "做设计的同学必备的网站，收录很全"
-            },
-            {
-                "name": "OfficePLUS",
-                "link": "http://www.officeplus.cn/Template/Home.shtml",
-                "description": "微软Office官方的模板网站~"
-            },
-            {
-                "name": "51PPT 模板网",
-                "link": "http://www.51pptmoban.com/ppt/",
-                "description": "一个还不错的 PPT 模板网站"
-            },
-            {
-                "name": "稻壳儿 docer",
-                "link": "https://www.docer.com/",
-                "description": "金山的模板网站，会员模板质量蛮高"
-            }
-        ]
-    },
-    {
-        "title": "数据报告",
-        "items": [
-            {
-                "name": "199IT互联网数据中心",
-                "link": "http://www.199it.com/",
-                "description": "一个很全的互联网数据网站"
-            },
-            {
-                "name": "国家统计局",
-                "link": "http://www.stats.gov.cn/",
-                "description": "宏观数据来这准没错"
-            },
-            {
-                "name": "易观分析报告",
-                "link": "https://www.analysys.cn/article/analysis/1",
-                "description": "第三方互联网数据咨询机构"
-            },
-            {
-                "name": "艾瑞咨询",
-                "link": "https://www.iresearch.com.cn/",
-                "description": "第三方互联网数据咨询机构"
-            }
-        ]
-    },
-    {
-        "title": "学术研究",
-        "items": [
-            {
-                "name": "中国知网",
-                "link": "https://www.cnki.net/",
-                "description": "无人不知无人不晓的知网，除了翟天临"
-            },
-            {
-                "name": "谷歌学术搜索",
-                "link": "https://scholar.google.com/",
-                "description": "谷歌学术搜索"
-            },
-            {
-                "name": "arxiv",
-                "link": "https://arxiv.org/",
-                "description": "占坑网站（划去）预印本网站"
-            }
-        ]
-    },
-    {
-        "title": "实习求职",
-        "items": [
-            {
-                "name": "阿里校招",
-                "link": "https://campus.alibaba.com/index.htm",
-                "description": "实习生 & 应届生"
-            },
-            {
-                "name": "腾讯校招",
-                "link": "https://join.qq.com/index.php",
-                "description": "实习生 & 应届生"
-            },
-            {
-                "name": "字节跳动校招",
-                "link": "https://job.bytedance.com/campus/",
-                "description": "就是所说的今日头条和抖音"
-            }
-        ]
-    },
-    {
         "title": "投稿建议",
         "items": [
             {
@@ -361,7 +266,17 @@
             {
                 "name": "idealclover",
                 "link": "https://idealclover.top",
-                "description": "作者傻翠的个人网站"
+                "description": "@idealclover 是本项目的发起人"
+            },
+            {
+                "name": "maorx",
+                "link": "https://maorx.cn/",
+                "description": "@maorx 负责本项目的设计工作"
+            },
+            {
+                "name": "ladderoperator",
+                "link": "https://ladderoperator.top/",
+                "description": "@ladderoperator 负责本项目的数据整理"
             }
         ]
     }
