@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robots.txt"
   },
   {
-    "revision": "87e9a11b404932e91195a5527286f03f",
+    "revision": "f7baa0a801ecfb622d2f0937ee286aff",
     "url": "/styles/main.css"
   }
 ]);
