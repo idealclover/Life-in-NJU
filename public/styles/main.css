@@ -70,6 +70,16 @@ header {
 /*.v-input__slot:focus {
 	box-shadow: rgba(0,0,0,.2) 0 2px 20px;
 }*/
+
+/* 折叠面板 */
+.v-expansion-panels {
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+}
+.v-expansion-panel {
+  -webkit-transition: margin, border-bottom-left-radius, border-bottom-right-radius, background-color .2s cubic-bezier(0.4, 0, 1, 1) !important;
+  transition: margin, border-bottom-left-radius, border-bottom-right-radius, background-color .2s cubic-bezier(0.4, 0, 1, 1) !important;
+}
 .v-expansion-panel.panels {
   background-color: rgba(255, 255, 255, 0.9) !important;
 }
@@ -77,7 +87,7 @@ header {
   background-color: rgba(255, 255, 255, 1) !important;
 }
 .v-expansion-panel.panels.v-expansion-panel--active.v-item--active {
-  background-color: rgba(255, 255, 255, 0.7) !important;
+  background-color: rgba(255, 255, 255, 0.75) !important;
 }
 .panel.flex.d-flex.flex-column.v-card.v-card--link.v-card--outlined.v-sheet.v-sheet--tile.theme--light {
   transition: all 0.25s;
@@ -85,6 +95,7 @@ header {
 .panel.flex.d-flex.flex-column.v-card.v-card--link.v-card--outlined.v-sheet.v-sheet--tile.theme--light:hover {
   background-color: white !important;
 }
+
 .ma-0.flex {
   /* overflow: hidden;
 	white-space: nowrap;
@@ -123,8 +134,8 @@ header {
   .v-expansion-panel.panels.v-expansion-panel--active.v-item--active {
     /* transition-delay: 0.25s;
     background-color: rgba(255, 255, 255, 0.5) !important; */
-    -webkit-backdrop-filter: blur(20px);
-    backdrop-filter: blur(20px);
+    -webkit-transition: none;
+    transition: none;
   }
   .v-expansion-panel.panels:hover {
     background-color: rgba(255, 255, 255, 1) !important;
