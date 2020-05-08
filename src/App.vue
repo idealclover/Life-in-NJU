@@ -13,7 +13,7 @@
       <v-icon
         class="shareLink"
         data-clipboard-text="https://nju.today"
-        @click="showToast('链接已复制，快分享给小伙伴吧！')"
+        @click="share"
       >
         mdi-open-in-new
       </v-icon>
@@ -145,10 +145,11 @@
 
 <script>
 const axios = require("axios");
-import createPersiste from "vue-savedata";
-import Clipboard from "clipboard";
 import Vue from "vue";
 import Vuex from "vuex";
+import createPersiste from "vue-savedata";
+import NativeShare from "nativeshare";
+import Clipboard from "clipboard";
 
 const dataUrl = "https://image.idealclover.cn/projects/Life-in-NJU/";
 const imgUrl =
@@ -156,6 +157,7 @@ const imgUrl =
 
 new Clipboard(".shareLink");
 Vue.use(Vuex);
+let nativeShare = new NativeShare();
 
 const store = new Vuex.Store({
   state: {
@@ -204,6 +206,22 @@ export default {
     open: function(link) {
       // window.location.href = link;
       window.open(link);
+    },
+    share: function() {
+      nativeShare.setShareData({
+        icon: "https://nju.today/img/icons/android-chrome-192x192.png",
+        link: "https://nju.today",
+        title: "南哪指南",
+        desc: "南哪人的专属导航页！",
+        from: "@idealclover"
+      });
+
+      // 唤起浏览器原生分享组件(如果在微信中不会唤起，此时call方法只会设置文案。类似setShareData)
+      try {
+        nativeShare.call();
+      } catch (err) {
+        this.showToast("链接已复制，快分享给小伙伴吧！");
+      }
     },
     search: function() {
       let value = this.value;
