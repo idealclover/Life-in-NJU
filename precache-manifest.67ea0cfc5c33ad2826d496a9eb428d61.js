@@ -72,7 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/AddToHomeScreen.js"
   },
   {
-    "revision": "f26f0e1b549a97b81604dd27c6e33e58",
+    "revision": "0774e2c52be3bed0d18cae4606c54638",
     "url": "/js/FuckWeixin.js"
   },
   {
