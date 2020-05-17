@@ -288,6 +288,11 @@
                 "description": "@LadderOperator 负责本项目的数据整理"
             },
             {
+                "name": "GeRongcun",
+                "link": "http://www.gerongcun.xyz/blog/",
+                "description": "@GeRongcun 共同参与本项目的数据整理"
+            },
+            {
                 "name": "zgq354",
                 "link": "https://blog.izgq.net/",
                 "description": "@zgq354 负责本项目的性能优化"
