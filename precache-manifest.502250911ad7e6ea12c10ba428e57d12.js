@@ -64,12 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "ada8b6539ae274cf1331e59f7c508000",
+    "revision": "c91286c6dfcbaba7ac18f83c055d87b1",
     "url": "/index.html"
   },
   {
     "revision": "032be1e2564fba0a0e803baa1bbc2ccf",
     "url": "/js/AddToHomeScreen.js"
+  },
+  {
+    "revision": "f26f0e1b549a97b81604dd27c6e33e58",
+    "url": "/js/FuckWeixin.js"
   },
   {
     "revision": "f1afc2cb8403f6d06b8f",
