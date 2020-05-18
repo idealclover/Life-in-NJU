@@ -229,7 +229,7 @@
             },
             {
                 "name": "南哪课表",
-                "link": "http://download.weigongju.org/79814667992",
+                "link": "https://m3w.cn/nnkbgkd",
                 "description": "南哪人的专属课程表 APP"
             },
             {
@@ -296,6 +296,11 @@
                 "name": "zgq354",
                 "link": "https://blog.izgq.net/",
                 "description": "@zgq354 负责本项目的性能优化"
+            },
+            {
+                "name": "赞助我们",
+                "link": "https://donate.idealclover.cn/",
+                "description": "来请我们吃棒棒糖！"
             }
         ]
     }
