@@ -205,7 +205,7 @@ export default {
   methods: {
     open: function(link) {
       // window.location.href = link;
-      window.open(link, "_blank", "noopener,noreferrer,nofollow");
+      window.open(link);
     },
     share: function() {
       nativeShare.setShareData({
