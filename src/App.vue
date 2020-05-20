@@ -205,7 +205,9 @@ export default {
   methods: {
     open: function(link) {
       // window.location.href = link;
-      window.open(link);
+      let tab = window.open(link);
+      tab.opener = null;
+      tab.location = link;
     },
     share: function() {
       nativeShare.setShareData({
