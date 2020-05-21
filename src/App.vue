@@ -129,7 +129,11 @@
         cols="12"
       >
         ©{{ new Date().getFullYear() }}
-        <a href="https://idealclover.top" class="white--text" target="_blank"
+        <a
+          href="https://idealclover.top"
+          class="white--text"
+          target="_blank"
+          rel="noopener noreferrer nofollow"
           >idealclover</a
         >
       </v-col>
@@ -144,7 +148,7 @@
 </template>
 
 <script>
-const axios = require("axios");
+import axios from "axios";
 import Vue from "vue";
 import Vuex from "vuex";
 import createPersiste from "vue-savedata";
