@@ -156,7 +156,7 @@ import createPersiste from "vue-savedata";
 import NativeShare from "nativeshare";
 import Clipboard from "clipboard";
 
-const dataUrl = "/assets/";
+const dataUrl = "https://raw.githubusercontent.com/1live/Life-under-BHM/master/assets/";
 const imgUrl =
   dataUrl + "background/bg" + Math.floor(Math.random() * 10) + ".jpg";
 
