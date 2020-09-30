@@ -130,7 +130,7 @@
       >
         ©{{ new Date().getFullYear() }}
 		Made by <a href="http://blog.1life.cool" class="white--text" target="_blank">Jeffery</a>
-		&nbsp;
+		&nbsp;&nbsp;
         Powered by <a href="https://idealclover.top" class="white--text" target="_blank">idealclover</a>
 		
       </v-col>
@@ -156,7 +156,7 @@ import createPersiste from "vue-savedata";
 import NativeShare from "nativeshare";
 import Clipboard from "clipboard";
 
-const dataUrl = "https://image.idealclover.cn/projects/Life-in-NJU/";
+const dataUrl = "assets/";
 const imgUrl =
   dataUrl + "background/bg" + Math.floor(Math.random() * 10) + ".jpg";
 
