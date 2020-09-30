@@ -51,6 +51,11 @@
                 "name": "信息素养",
                 "link": "http://suyang.zxhnzq.com/Main.aspx",
                 "description": "搜索能力决定下限，搜索意识决定上限。"
+            },
+{
+                "name": "我要添加",
+                "link": "https://wj.qq.com/s2/7310801/ff08/",
+                "description": "让爱兰岛更好！"
             }
         ]
     },
@@ -86,6 +91,11 @@
                 "name": "注册中心",
                 "link": "http://zczx.lzu.edu.cn/homepage/index.do",
                 "description": "不咋用。"
+            },
+{
+                "name": "我要添加",
+                "link": "https://wj.qq.com/s2/7310801/ff08/",
+                "description": "让爱兰岛更好！"
             }
         ]
     },
@@ -136,6 +146,11 @@
                 "name": "Firefox",
                 "link": "https://www.mozilla.org/zh-CN/",
                 "description": "别信百度，这才是真正的Firefox！"
+            },
+{
+                "name": "我要添加",
+                "link": "https://wj.qq.com/s2/7310801/ff08/",
+                "description": "让爱兰岛更好！"
             }
         ]
     },
@@ -171,12 +186,42 @@
                 "name": "如何提问",
                 "link": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
                 "description": "有问题，先多吉（不用百度是zzzq）。"
+            },
+{
+                "name": "我要添加",
+                "link": "https://wj.qq.com/s2/7310801/ff08/",
+                "description": "让爱兰岛更好！"
             }
         ]
     },
-    
     {
-        "title": "投稿建议",
+        "title": "宝藏项目",
+        "items": [
+            {
+                "name": "腾讯PCG创新项目远程实习",
+                "link": "https://mp.weixin.qq.com/s/67iPoz3LvOLtS85dCq-QgA",
+                "description": "他不给钱，你不花钱。"
+            },
+            {
+                "name": "鹅厂线上研究训练营",
+                "link": "https://mp.weixin.qq.com/s/ics5Ppbnu7NAx_UwqU-gDg",
+                "description": "早了解，早准备。"
+            },
+{
+                "name": "德勤寒假实习生",
+                "link": "https://mp.weixin.qq.com/s/19gE8AIDf7-8DhbfOJCILg",
+                "description": "哈，寒假也有实习？！！"
+            },
+{
+                "name": "我要添加",
+                "link": "https://wj.qq.com/s2/7310801/ff08/",
+                "description": "让爱兰岛更好！"
+            }
+        ]
+    },
+	
+    {
+        "title": "联系站长",
         "items": [
             {
                 "name": "我要加QQ",
