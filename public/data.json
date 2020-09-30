@@ -225,12 +225,12 @@
         "items": [
             {
                 "name": "我要加QQ",
-                "link": "wpa.qq.com/msgrd?v=3&uin=1171401916&site=qq&menu=yes",
+                "link": "http://wpa.qq.com/msgrd?v=3&uin=1171401916&site=qq&menu=yes",
                 "description": "加个好友提出意见建议！"
             },
             {
                 "name": "我要加入",
-                "link": "wpa.qq.com/msgrd?v=3&uin=1171401916&site=qq&menu=yes",
+                "link": "http://wpa.qq.com/msgrd?v=3&uin=1171401916&site=qq&menu=yes",
                 "description": "我也要搞事情！"
             }
         ]

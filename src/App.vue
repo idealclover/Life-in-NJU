@@ -129,8 +129,10 @@
         cols="12"
       >
         ©{{ new Date().getFullYear() }}
-        <a href="https://idealclover.top" class="white--text" target="_blank">idealclover</a>
-		<a href="http://blog.1life.cool" class="white--text" target="_blank">Jeffery</a>
+		Made by <a href="http://blog.1life.cool" class="white--text" target="_blank">Jeffery</a>
+		&nbsp;
+        Powered by <a href="https://idealclover.top" class="white--text" target="_blank">idealclover</a>
+		
       </v-col>
 	  
 	  
@@ -189,9 +191,9 @@ export default {
     engineIndex: store.state.engineIndex,
     engineList: [
       {
-        name: "dogedoge",
+        name: "baidu",
         url: "https://www.dogedoge.com/results?q=",
-        src: dataUrl + "search/dogedoge-white.png"
+        src: dataUrl + "search/baidu-white.png"
       },
       {
         name: "bing",
