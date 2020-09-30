@@ -1,306 +1,192 @@
 [
     {
-        "title": "萌新必读",
+        "title": "好好学习",
         "items": [
-            {
-                "name": "新生必看",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/ecpz8l",
-                "description": "看了这些基本不用到处问人了"
+		{
+                "name": "图书馆",
+                "link": "http://lib.lzu.edu.cn/",
+                "description": "别浪费我们的图书馆！"
             },
             {
-                "name": "统一身份认证",
-                "link": "https://authserver.nju.edu.cn/authserver/login",
-                "description": "初始账户学工号，初始密码身份证（全部或后6位）"
+                "name": "万维百科",
+                "link": "https://www.wanweibaike.com/",
+                "description": "谁让我们用不了维基百科呢。"
             },
             {
-                "name": "校园网登录",
-                "link": "http://p.nju.edu.cn",
-                "description": "初始账户学工号，初始密码身份证（全部）"
+                "name": "鸠摩搜书",
+                "link": "https://www.jiumodiary.com/",
+                "description": "这里搜不到，就去别处。"
             },
             {
-                "name": "公众号目录",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/chfp1l",
-                "description": "哦我的上帝啊，你毕业都不一定关注全了"
+                "name": "MBA智库",
+                "link": "https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5",
+                "description": "我也不知道能干嘛，看起来很厉害。"
+            },
+            {
+                "name": "多邻国",
+                "link": "https://zh-cn.duolingo.com/",
+                "description": "你不会连玩游戏都坚持不下去吧！"
+            },
+			{
+                "name": "Brilliant",
+                "link": "https://brilliant.org/",
+                "description": "做个每日一题也还行，不然太贵了。"
+            },
+			{
+                "name": "计算机课程",
+                "link": "https://study.163.com/curricula/cs.htm",
+                "description": "网易把这个链接藏起来了，用了就是赚到。"
+            },
+			{
+                "name": "知网",
+                "link": "https://www.cnki.net/",
+                "description": "学术垃圾集中池。"
+            },
+			{
+                "name": "GitHub学生包",
+                "link": "https://education.github.com/pack",
+                "description": "白嫖的同时还能学习，再没有这么好的事了。"
+            },
+			{
+                "name": "信息素养",
+                "link": "http://suyang.zxhnzq.com/Main.aspx",
+                "description": "搜索能力决定下限，搜索意识决定上限。"
             }
         ]
     },
     {
-        "title": "校园生活",
+        "title": "校园事务",
         "items": [
             {
-                "name": "衣食住行",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/nbmig7",
-                "description": "杂七杂八的生活服务"
+                "name": "智障学工",
+                "link": "http://zhxg.lzu.edu.cn/lzuyz/",
+                "description": "还得在这里请假啊。"
             },
             {
-                "name": "医疗相关",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/rs2gzq",
-                "description": "身体健康第一位~"
+                "name": "网费充值",
+                "link": "http://self.its.lzu.edu.cn/lzu_selfpay/web/pay/login.html",
+                "description": "欠费了还可以上的网址。"
             },
             {
-                "name": "实用服务",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/pydwn1",
-                "description": "各种学生组织的实用服务"
+                "name": "校内邮箱",
+                "link": "https://mail.lzu.edu.cn/",
+                "description": "别用这个投简历。"
             },
             {
-                "name": "社团实践",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/osy13s",
-                "description": "社团、志愿、就业、创业相关"
+                "name": "教务在线",
+                "link": "http://jwk.lzu.edu.cn/academic/common/security/login.jsp",
+                "description": "选课，查课表，查教室。"
             },
             {
-                "name": "宿舍相关",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/bau88f",
-                "description": "联系宿管、调宿事宜"
+                "name": "个人中心",
+                "link": "http://my.lzu.edu.cn",
+                "description": "打卡打卡打卡！"
             },
             {
-                "name": "校园服务",
-                "link": "https://www.nju.edu.cn/3688/list.htm",
-                "description": "南大校历、各单位电话黄页"
-            },
-            {
-                "name": "本科学工通讯录",
-                "link": "https://xgc.nju.edu.cn/1799/list.htm",
-                "description": "实在不行问问辅导员"
-            },
-            {
-                "name": "小百合 BBS",
-                "link": "http://bbs.nju.edu.cn/",
-                "description": "求职信息、校长信箱比较有用"
-            },
-            {
-                "name": "学生服务",
-                "link": "http://xsgl.nju.edu.cn",
-                "description": "奖学金、勤工俭学等常用网站"
-            },
-            {
-                "name": "证件办理",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/ubnps4",
-                "description": "校园卡、学生证、研究生证等（补）办理"
-            },
-            {
-                "name": "户籍管理",
-                "link": "https://bwc.nju.edu.cn/bszn/bmfw/index.html",
-                "description": "管理户口迁移等等事务"
+                "name": "注册中心",
+                "link": "http://zczx.lzu.edu.cn/homepage/index.do",
+                "description": "不咋用。"
             }
         ]
     },
     {
-        "title": "学习科研",
+        "title": "实用工具",
         "items": [
             {
-                "name": "教务系统",
-                "link": "http://elite.nju.edu.cn/jiaowu/",
-                "description": "密码是大小写字母加数字"
+                "name": "iLovePDF",
+                "link": "https://www.ilovepdf.com/zh-cn",
+                "description": "想使用客户端可以搜索pdf24。"
             },
             {
-                "name": "研究生学籍与教学管理系统",
-                "link": "http://pyb.nju.edu.cn/",
-                "description": "研究生版教务系统"
+                "name": "Pixabay",
+                "link": "https://pixabay.com/zh/",
+                "description": "免费图片素材。"
             },
             {
-                "name": "图书馆纸本检索",
-                "link": "http://opac.nju.edu.cn/#/Home",
-                "description": "快看看你想看的书它有没有、在哪找"
+                "name": "Office+",
+                "link": "www.officeplus.cn/",
+                "description": "微软官方站点，正版office也有自带模板。"
             },
             {
-                "name": "图书馆指南",
-                "link": "http://mooc1.chaoxing.com/zt/200026884.html",
-                "description": "图书馆出品的新生指南"
+                "name": "Notion",
+                "link": "https://www.notion.so",
+                "description": "重新定义数字笔记。"
             },
             {
-                "name": "图书馆服务",
-                "link": "http://lib.nju.edu.cn/index.htm#Page3",
-                "description": "图书馆热门服务"
+                "name": "Convertio",
+                "link": "https://convertio.co/zh/",
+                "description": "转换文件格式。"
             },
             {
-                "name": "图书馆电子资源",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/fmd1wl",
-                "description": "各类数据库、学术杂志免费下载"
+                "name": "小森林导航",
+                "link": "http://www.xsldh6.com/",
+                "description": "授之以鱼不如授之以渔。"
             },
             {
-                "name": "研讨间预约",
-                "link": "http://lib.nju.edu.cn/rmfw/sbfw/yjxjyy.htm",
-                "description": "（需要校园网）在图书馆研讨间愉快地讨（wan）论（shua）"
+                "name": "时光邮局",
+                "link": "https://timemail.net/",
+                "description": "给未来写封信。"
             },
             {
-                "name": "课程网站",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/sr0kbw",
-                "description": "各种课要用的网站，还有经典悦读电子书"
+                "name": "Foxmail",
+                "link": "https://www.foxmail.com/",
+                "description": "你的邮件，现在有了新看法。"
             },
             {
-                "name": "培养课表",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/ysdgpd",
-                "description": "课表、培养计划、拔尖计划等"
-            },
-            {
-                "name": "交换生系统",
-                "link": "http://elite.nju.edu.cn/exchangesystem/",
-                "description": "本科阶段交流生和访问学生的一些信息"
-            },
-            {
-                "name": "国际交流合作处",
-                "link": "http://stuex.nju.edu.cn/",
-                "description": "交流交换的项目信息"
-            },
-            {
-                "name": "高性能计算中心",
-                "link": "https://hpc.nju.edu.cn/",
-                "description": "电脑不够算，快找HPC"
+                "name": "Firefox",
+                "link": "https://www.mozilla.org/zh-CN/",
+                "description": "别信百度，这才是真正的Firefox！"
             }
         ]
     },
     {
-        "title": "信息服务",
+        "title": "自我提升",
         "items": [
             {
-                "name": "南大APP",
-                "link": "https://oi.nju.edu.cn/21607/list.htm",
-                "description": "新版南大APP，集成各类常用功能"
+                "name": "大学意义",
+                "link": "https://mp.weixin.qq.com/s/FfVTpNTnNbXHmfION777RA",
+                "description": "有意思，说下去。"
             },
             {
-                "name": "南大邮箱",
-                "link": "https://mail.smail.nju.edu.cn/",
-                "description": "全日制学生人手一个，可以用来薅免费教育版软件、教育优惠"
+                "name": "经验教训",
+                "link": "https://www.zhihu.com/question/304844787/answer/552701904",
+                "description": "看别人怎么哭，比羡慕别人笑有用。"
             },
             {
-                "name": "VPN客户端",
-                "link": "https://vpn.nju.edu.cn/",
-                "description": "VPN客户端，可以访问只有校园网才能访问的全部资源"
+                "name": "白非力上进记",
+                "link": "https://zhuanlan.zhihu.com/p/91072728",
+                "description": "引以为戒。"
             },
             {
-                "name": "VPN网页版",
-                "link": "https://vpn3.nju.edu.cn/",
-                "description": "无需下载客户端，可以访问只有校园网才能访问的全部资源"
+                "name": "时光邮局",
+                "link": "https://timemail.net/",
+                "description": "给未来写封信，别忘了！"
             },
             {
-                "name": "正版软件",
-                "link": "https://itsc.nju.edu.cn/zbrj/list.htm",
-                "description": "学校购买的常用正版系统和软件"
+                "name": "GTD",
+                "link": "https://gettingthingsdone.com/what-is-gtd/",
+                "description": "管好你的时间和精力。"
             },
             {
-                "name": "邮箱别名",
-                "link": "http://mailm.nju.edu.cn:8080",
-                "description": "学生邮箱一堆数字看起来一点也不时髦？试试这个"
-            },
-            {
-                "name": "Eduroam",
-                "link": "https://itsc.nju.edu.cn/21436/list.htm",
-                "description": "全球教育科研机构无线网络漫游"
-            },
-            {
-                "name": "校园卡网络自助服务系统",
-                "link": "https://oa.nju.edu.cn/ecard/",
-                "description": "（需要校园网）查看校园卡信息，可以下载校园卡黑照"
-            },
-            {
-                "name": "e-Science中心",
-                "link": "https://sci.nju.edu.cn/",
-                "description": "南大云盘、镜像、git、测速等服务"
+                "name": "如何提问",
+                "link": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+                "description": "有问题，先多吉（不用百度是zzzq）。"
             }
         ]
     },
-    {
-        "title": "趣味南大",
-        "items": [
-            {
-                "name": "招标办公室",
-                "link": "http://zb.nju.edu.cn/",
-                "description": "来看看学校最近又买了啥~"
-            },
-            {
-                "name": "数据中心",
-                "link": "https://data.nju.edu.cn",
-                "description": "可以看见一些令人脸红心跳的东西（需校园网）"
-            },
-            {
-                "name": "网络电视",
-                "link": "http://tv.nju.edu.cn/",
-                "description": "（需要校园网）神奇的电视直播站"
-            }
-        ]
-    },
-    {
-        "title": "学生项目",
-        "items": [
-            {
-                "name": "南哪指南",
-                "link": "https://github.com/idealclover/life-in-nju",
-                "description": "就是本项目！"
-            },
-            {
-                "name": "南哪课表",
-                "link": "https://m3w.cn/nnkbgkd",
-                "description": "南哪人的专属课程表 APP"
-            },
-            {
-                "name": "南京大学学位论文XeLaTeX模板",
-                "link": "https://github.com/Haixing-Hu/nju-thesis",
-                "description": "毕业论文的XeLaTeX模板"
-            },
-            {
-                "name": "南京大学本科毕业论文Latex模板",
-                "link": "https://github.com/ZLCao/NJUBachelor",
-                "description": "本科毕业论文的Latex模板"
-            },
-            {
-                "name": "课程评估自动化",
-                "link": "https://fuck.idealclover.cn/",
-                "description": "每学期的课程评估简直噩梦"
-            }
-        ]
-    },
+    
     {
         "title": "投稿建议",
         "items": [
             {
-                "name": "讨论群",
-                "link": "https://jq.qq.com/?_wv=1027&k=5hsPQa6",
-                "description": "加入讨论群提出意见建议！"
+                "name": "我要加QQ",
+                "link": "wpa.qq.com/msgrd?v=3&uin=1171401916&site=qq&menu=yes",
+                "description": "加个好友提出意见建议！"
             },
             {
-                "name": "投稿与建议",
-                "link": "https://github.com/idealclover/life-in-nju/issues",
-                "description": "在这里新建 issues"
-            },
-            {
-                "name": "项目 GitHub 地址",
-                "link": "https://github.com/idealclover/life-in-nju",
-                "description": "网站的源代码存放于此"
-            }
-        ]
-    },
-    {
-        "title": "友情链接",
-        "items": [
-            {
-                "name": "idealclover",
-                "link": "https://idealclover.top",
-                "description": "@idealclover 是本项目的发起人"
-            },
-            {
-                "name": "毛若昕",
-                "link": "https://maorx.cn/",
-                "description": "@毛若昕 负责本项目的设计建议和背景图片摄影"
-            },
-            {
-                "name": "LadderOperator",
-                "link": "https://ladderoperator.top/",
-                "description": "@LadderOperator 负责本项目的数据整理"
-            },
-            {
-                "name": "GeRongcun",
-                "link": "http://www.gerongcun.xyz/blog/",
-                "description": "@GeRongcun 共同参与本项目的数据整理"
-            },
-            {
-                "name": "zgq354",
-                "link": "https://blog.izgq.net/",
-                "description": "@zgq354 负责本项目的性能优化"
-            },
-            {
-                "name": "赞助我们",
-                "link": "https://donate.idealclover.cn/",
-                "description": "来请我们吃棒棒糖！"
+                "name": "我要加入",
+                "link": "wpa.qq.com/msgrd?v=3&uin=1171401916&site=qq&menu=yes",
+                "description": "我也要搞事情！"
             }
         ]
     }
