@@ -118,16 +118,24 @@
           </v-expansion-panel>
         </v-expansion-panels>
       </v-container>
+	  
+	  
+	  
+	  
+	  
       <v-col
         class="text-center white--text"
         style="background-color: rgba(0,0,0,.2);"
         cols="12"
       >
         ©{{ new Date().getFullYear() }}
-        <a href="https://idealclover.top" class="white--text" target="_blank"
-          >idealclover</a
-        >
+        <a href="https://idealclover.top" class="white--text" target="_blank">idealclover</a>
+		<a href="http://blog.1life.cool" class="white--text" target="_blank">Jeffery</a>
       </v-col>
+	  
+	  
+	  
+	  
       <v-snackbar v-model="snackbar">
         {{ snackText }}
         <v-btn color="pink" text @click="snackbar = false">
@@ -181,9 +189,9 @@ export default {
     engineIndex: store.state.engineIndex,
     engineList: [
       {
-        name: "baidu",
-        url: "https://www.baidu.com/s?wd=",
-        src: dataUrl + "search/baidu-white.png"
+        name: "dogedoge",
+        url: "https://www.dogedoge.com/results?q=",
+        src: dataUrl + "search/dogedoge-white.png"
       },
       {
         name: "bing",
@@ -204,11 +212,11 @@ export default {
     },
     share: function() {
       nativeShare.setShareData({
-        icon: "https://nju.today/img/icons/android-chrome-192x192.png",
-        link: "https://nju.today",
-        title: "南哪指南",
-        desc: "南哪人的专属导航页！",
-        from: "@idealclover"
+        icon: "https://iland.cool/img/icons/android-chrome-192x192.png",
+        link: "https://iland.cool/",
+        title: "爱兰岛",
+        desc: "萃英山下不迷路！",
+        from: "@Jeffery"
       });
 
       // 唤起浏览器原生分享组件(如果在微信中不会唤起，此时call方法只会设置文案。类似setShareData)
