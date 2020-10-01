@@ -88,9 +88,14 @@
                 "description": "打卡打卡打卡！"
             },
             {
-                "name": "注册中心",
-                "link": "http://zczx.lzu.edu.cn/homepage/index.do",
-                "description": "不咋用。"
+                "name": "兰大主页",
+                "link": "http://www.lzu.edu.cn/",
+                "description": "更不咋用。"
+            },
+			{
+                "name": "网费充值",
+                "link": "http://self.its.lzu.edu.cn/lzu_selfpay/web/pay/login.html",
+                "description": "欠费了还可以上的网址。"
             },
             {
                 "name": "兰朵儿",
