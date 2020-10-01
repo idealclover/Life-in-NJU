@@ -92,6 +92,11 @@
                 "link": "http://zczx.lzu.edu.cn/homepage/index.do",
                 "description": "不咋用。"
             },
+            {
+                "name": "兰朵儿",
+                "link": "https://ldr.cool/",
+                "description": "省了好多麻烦事！"
+            },
 {
                 "name": "我要添加",
                 "link": "https://wj.qq.com/s2/7310801/ff08/",
@@ -126,6 +131,11 @@
                 "name": "Convertio",
                 "link": "https://convertio.co/zh/",
                 "description": "转换文件格式。"
+            },
+			{
+                "name": "TinyPNG",
+                "link": "https://tinify.cn/",
+                "description": "低损压缩图片"
             },
             {
                 "name": "小森林导航",
