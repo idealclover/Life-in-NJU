@@ -35,7 +35,7 @@
 			{
                 "name": "计算机课程",
                 "link": "https://study.163.com/curricula/cs.htm",
-                "description": "网易把这个链接藏起来了，用了就是赚到。"
+                "description": "网易把它藏起来了，用了就是赚到。"
             },
 			{
                 "name": "知网",
@@ -45,17 +45,17 @@
 			{
                 "name": "GitHub学生包",
                 "link": "https://education.github.com/pack",
-                "description": "白嫖的同时还能学习，再没有这么好的事了。"
+                "description": "白嫖的同时还能学习，有这种好事？"
             },
 			{
                 "name": "信息素养",
                 "link": "http://suyang.zxhnzq.com/Main.aspx",
-                "description": "搜索能力决定下限，搜索意识决定上限。"
+                "description": "能力决定下限，意识决定上限。"
             },
 {
                 "name": "我要添加",
                 "link": "https://wj.qq.com/s2/7310801/ff08/",
-                "description": "让爱兰岛更好！"
+                "description": "让爱兰岛变得更好！"
             }
         ]
     },
@@ -95,7 +95,7 @@
 {
                 "name": "我要添加",
                 "link": "https://wj.qq.com/s2/7310801/ff08/",
-                "description": "让爱兰岛更好！"
+                "description": "让爱兰岛变得更好！"
             }
         ]
     },
@@ -115,7 +115,7 @@
             {
                 "name": "Office+",
                 "link": "www.officeplus.cn/",
-                "description": "微软官方站点，正版office也有自带模板。"
+                "description": "微软官方站点，正版其实有自带。"
             },
             {
                 "name": "Notion",
@@ -150,7 +150,7 @@
 {
                 "name": "我要添加",
                 "link": "https://wj.qq.com/s2/7310801/ff08/",
-                "description": "让爱兰岛更好！"
+                "description": "让爱兰岛变得更好！"
             }
         ]
     },
@@ -165,7 +165,7 @@
             {
                 "name": "让你重新上一次大学，你会？",
                 "link": "https://www.zhihu.com/question/304844787/answer/552701904",
-                "description": "看别人怎么哭，比羡慕别人笑有用。"
+                "description": "我不开心的事情，让你开心一下。"
             },
             {
                 "name": "白非力上进记",
@@ -190,17 +190,22 @@
 {
                 "name": "我要添加",
                 "link": "https://wj.qq.com/s2/7310801/ff08/",
-                "description": "让爱兰岛更好！"
+                "description": "让爱兰岛变得更好！"
             }
         ]
     },
     {
         "title": "宝藏项目",
         "items": [
+		    {
+                "name": "牛客网",
+                "link": "https://www.nowcoder.com/",
+                "description": "先认识些厉害的人吧。"
+            },
             {
                 "name": "腾讯PCG创新项目远程实习",
                 "link": "https://mp.weixin.qq.com/s/67iPoz3LvOLtS85dCq-QgA",
-                "description": "他不给钱，你不花钱。"
+                "description": "他不给钱，你不花钱，合作共赢。"
             },
             {
                 "name": "鹅厂线上研究训练营",
@@ -215,23 +220,28 @@
 {
                 "name": "我要添加",
                 "link": "https://wj.qq.com/s2/7310801/ff08/",
-                "description": "让爱兰岛更好！"
+                "description": "让爱兰岛变得更好！"
             }
         ]
     },
 	
     {
-        "title": "联系站长",
+        "title": "联系岛哥",
         "items": [
             {
                 "name": "我要加QQ",
                 "link": "http://wpa.qq.com/msgrd?v=3&uin=1171401916&site=qq&menu=yes",
-                "description": "加个好友提出意见建议！"
+                "description": "加个好友提出建议！"
             },
             {
                 "name": "我要加入",
                 "link": "http://wpa.qq.com/msgrd?v=3&uin=1171401916&site=qq&menu=yes",
                 "description": "我也要搞事情！"
+            },
+            {
+                "name": "我要上墙",
+                "link": "https://wj.qq.com/s2/7313466/2d94/",
+                "description": "我的照片更好看！"
             }
         ]
     }

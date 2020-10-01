@@ -156,7 +156,7 @@ import createPersiste from "vue-savedata";
 import NativeShare from "nativeshare";
 import Clipboard from "clipboard";
 
-const dataUrl = "https://raw.githubusercontent.com/1live/Life-under-BHM/master/assets/";
+const dataUrl = "/img/";
 const imgUrl =
   dataUrl + "background/bg" + Math.floor(Math.random() * 10) + ".jpg";
 
@@ -191,9 +191,9 @@ export default {
     engineIndex: store.state.engineIndex,
     engineList: [
       {
-        name: "baidu",
+        name: "dogedoge",
         url: "https://www.dogedoge.com/results?q=",
-        src: dataUrl + "search/baidu-white.png"
+        src: dataUrl + "search/dogedoge-white.png"
       },
       {
         name: "bing",
