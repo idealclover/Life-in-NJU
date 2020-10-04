@@ -17,6 +17,11 @@
                 "link": "https://www.jiumodiary.com/",
                 "description": "这里搜不到，就去别处。"
             },
+			  {
+                "name": "微信读书",
+                "link": "https://weread.qq.com/",
+                "description": "欠费了还可以上的网址。"
+            },
             {
                 "name": "MBA智库",
                 "link": "https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5",
@@ -66,11 +71,6 @@
                 "name": "智障学工",
                 "link": "http://zhxg.lzu.edu.cn/lzuyz/",
                 "description": "还得在这里请假啊。"
-            },
-            {
-                "name": "网费充值",
-                "link": "http://self.its.lzu.edu.cn/lzu_selfpay/web/pay/login.html",
-                "description": "欠费了还可以上的网址。"
             },
             {
                 "name": "校内邮箱",
@@ -123,8 +123,8 @@
                 "description": "免费图片素材。"
             },
             {
-                "name": "Office+",
-                "link": "www.officeplus.cn/",
+                "name": "Office模板",
+                "link": "http://www.officeplus.cn/",
                 "description": "微软官方站点，正版其实有自带。"
             },
             {
