@@ -47,11 +47,7 @@
                 "link": "https://www.cnki.net/",
                 "description": "学术垃圾集中池。"
             },
-			{
-                "name": "GitHub学生包",
-                "link": "https://education.github.com/pack",
-                "description": "白嫖的同时还能学习，有这种好事？"
-            },
+			
 			{
                 "name": "信息素养",
                 "link": "http://suyang.zxhnzq.com/Main.aspx",
@@ -152,6 +148,11 @@
                 "link": "https://timemail.net/",
                 "description": "给未来写封信。"
             },
+			{
+                "name": "GitHub学生包",
+                "link": "https://education.github.com/pack",
+                "description": "白嫖的同时还能学习，有这种好事？"
+            },
             {
                 "name": "Foxmail",
                 "link": "https://www.foxmail.com/",
@@ -172,6 +173,7 @@
     {
         "title": "自我提升",
         "items": [
+		
             {
                 "name": "大学对普通人的意义何在？",
                 "link": "https://mp.weixin.qq.com/s/FfVTpNTnNbXHmfION777RA",
@@ -181,6 +183,11 @@
                 "name": "让你重新上一次大学，你会？",
                 "link": "https://www.zhihu.com/question/304844787/answer/552701904",
                 "description": "我不开心的事情，让你开心一下。"
+            },
+			{
+                "name": "什么是学生思维？",
+                "link": "https://www.zhihu.com/question/63569860/answer/1504425203",
+                "description": "在你高考后的那个暑假，就可以开始了。"
             },
             {
                 "name": "白非力上进记",
@@ -199,7 +206,7 @@
             },
             {
                 "name": "如何提问",
-                "link": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+                "link": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md",
                 "description": "有问题，先多吉（不用百度是zzzq）。"
             },
 {
@@ -245,12 +252,12 @@
         "items": [
             {
                 "name": "我要加QQ",
-                "link": "http://wpa.qq.com/msgrd?v=3&uin=1171401916&site=qq&menu=yes",
-                "description": "加个好友提出建议！"
+              
+                "description": "1171401916"
             },
             {
                 "name": "我要加入",
-                "link": "http://wpa.qq.com/msgrd?v=3&uin=1171401916&site=qq&menu=yes",
+                "link": "mailto:Jeffery2021@foxmail.com",
                 "description": "我也要搞事情！"
             },
             {
