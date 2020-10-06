@@ -70,7 +70,7 @@
                 class="searchOpt"
                 @click="changeEngine(2)"
               >
-                <i class="iconfont" id="icongoogle">&#xe719;</i>
+                <i class="iconfont" id="icongoogle">&#xe692;</i>
               </v-btn>
             </div>
           </v-row>
