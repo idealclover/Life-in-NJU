@@ -1,269 +1,258 @@
 [
-    {
-        "title": "好好学习",
-        "items": [
-		{
-                "name": "图书馆",
-                "link": "http://lib.lzu.edu.cn/",
-                "description": "别浪费我们的图书馆！"
-            },
-            {
-                "name": "万维百科",
-                "link": "https://www.wanweibaike.com/",
-                "description": "谁让我们用不了维基百科呢。"
-            },
-            {
-                "name": "鸠摩搜书",
-                "link": "https://www.jiumodiary.com/",
-                "description": "这里搜不到，就去别处。"
-            },
-			  {
-                "name": "微信读书",
-                "link": "https://weread.qq.com/",
-                "description": "在线阅读出版书。"
-            },
-            {
-                "name": "MBA智库",
-                "link": "https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5",
-                "description": "我也不知道能干嘛，看起来很厉害。"
-            },
-            {
-                "name": "多邻国",
-                "link": "https://zh-cn.duolingo.com/",
-                "description": "学外语也没有那么痛苦啦！"
-            },
-			{
-                "name": "Brilliant",
-                "link": "https://brilliant.org/",
-                "description": "做个每日一题也还行，不然太贵了。"
-            },
-			{
-                "name": "计算机课程",
-                "link": "https://study.163.com/curricula/cs.htm",
-                "description": "网易把它藏起来了，用了就是赚到。"
-            },
-			{
-                "name": "知网",
-                "link": "https://www.cnki.net/",
-                "description": "学术垃圾集中池。"
-            },
-			
-			{
-                "name": "信息素养",
-                "link": "http://suyang.zxhnzq.com/Main.aspx",
-                "description": "能力决定下限，意识决定上限。"
-            },
 {
-                "name": "我要添加",
-                "link": "https://wj.qq.com/s2/7310801/ff08/",
-                "description": "让爱兰岛变得更好！"
-            }
-        ]
-    },
-    {
-        "title": "校园事务",
+        "title": "兰大校园",
         "items": [
-            {
-                "name": "智障学工",
+			{
+                "name": "智慧学工",
                 "link": "http://zhxg.lzu.edu.cn/lzuyz/",
-                "description": "还得在这里请假啊。"
-            },
-            {
-                "name": "校内邮箱",
-                "link": "https://mail.lzu.edu.cn/",
-                "description": "别用这个投简历。"
+                "description": "离校请假。"
             },
             {
                 "name": "教务在线",
                 "link": "http://jwk.lzu.edu.cn/academic/common/security/login.jsp",
                 "description": "选课，查课表，查教室。"
             },
+			{
+                "name": "校内邮箱",
+                "link": "https://mail.lzu.edu.cn/",
+                "description": "白嫖神器，别用它投简历。"
+            },
             {
-                "name": "个人中心",
+                "name": "个人工作台",
                 "link": "http://my.lzu.edu.cn",
-                "description": "打卡打卡打卡！"
+                "description": "评教。"
+            },
+			{
+                "name": "兰大图书馆",
+                "link": "http://lib.lzu.edu.cn/",
+                "description": "馆藏查询、图书续借。"
             },
             {
                 "name": "兰大主页",
                 "link": "http://www.lzu.edu.cn/",
-                "description": "不咋用。"
+                "description": "官方通知、新闻。"
             },
 			{
-                "name": "网费充值",
-                "link": "http://self.its.lzu.edu.cn/lzu_selfpay/web/pay/login.html",
-                "description": "欠费了还可以上的网址。"
+                "name": "兰大vpn",
+                "link": "https://vpnx.lzu.edu.cn/login?cas_login=true",
+                "description": "校外访问内网服务"
             },
-            {
-                "name": "兰朵儿",
-                "link": "https://ldr.cool/",
-                "description": "省了好多麻烦事！"
-            },
-{
-                "name": "我要添加",
+			{
+                "name": "我要建议",
                 "link": "https://wj.qq.com/s2/7310801/ff08/",
                 "description": "让爱兰岛变得更好！"
             }
         ]
     },
     {
-        "title": "实用工具",
+        "title": "学习科研",
+        "items": [
+            {
+                "name": "鸠摩搜书",
+                "link": "https://www.jiumodiary.com/",
+                "description": "中文电子书下载。"
+            },
+			{
+                "name": "Library Genesis",
+                "link": "http://gen.lib.rus.ec/",
+                "description": "全球电子书下载。"
+            },
+			{
+                "name": "知网",
+                "link": "https://www.cnki.net/",
+                "description": "学术论文检索与下载"
+            },
+			{
+                "name": "读秀",
+                "link": "http://www.duxiu.com/",
+                "description": "学术媒体资源检索。"
+            },
+			{
+                "name": "万维百科",
+                "link": "https://www.wanweibaike.com/",
+                "description": "维基百科中国版"
+            },
+			{
+                "name": "网易公开课",
+                "link": "https://open.163.com/",
+                "description": "通识网络课程。"
+            },
+			{
+                "name": "大学计算机专业",
+                "link": "https://study.163.com/curricula/cs.htm",
+                "description": "免费、权威、系统的计算机课程体系"
+            },
+			{
+                "name": "我要建议",
+                "link": "https://wj.qq.com/s2/7310801/ff08/",
+                "description": "让爱兰岛变得更好！"
+            }
+        ]
+    },
+    
+    {
+        "title": "在线工具",
         "items": [
             {
                 "name": "iLovePDF",
                 "link": "https://www.ilovepdf.com/zh-cn",
-                "description": "想使用客户端可以搜索pdf24。"
+                "description": "PDF文件处理。"
+            },
+			{
+                "name": "PPT模板",
+                "link": "http://www.officeplus.cn/",
+                "description": "Word-PPT-Excel模板大全"
             },
             {
                 "name": "Pixabay",
                 "link": "https://pixabay.com/zh/",
                 "description": "免费图片素材。"
             },
-            {
-                "name": "Office模板",
-                "link": "http://www.officeplus.cn/",
-                "description": "微软官方站点，正版其实有自带。"
+			{
+                "name": "Pho.to",
+                "link": "https://editor.pho.to/zh/edit/",
+                "description": "在线图片编辑。"
             },
-            {
-                "name": "Notion",
-                "link": "https://www.notion.so",
-                "description": "重新定义数字笔记。"
-            },
-            {
+			{
                 "name": "Convertio",
                 "link": "https://convertio.co/zh/",
                 "description": "转换文件格式。"
             },
-			{
-                "name": "TinyPNG",
-                "link": "https://tinify.cn/",
-                "description": "低损压缩图片"
+            {
+                "name": "Notion",
+                "link": "https://www.notion.so",
+                "description": "在线笔记本。"
             },
+           
+			
             {
                 "name": "小森林导航",
                 "link": "http://www.xsldh6.com/",
-                "description": "授之以鱼不如授之以渔。"
-            },
-            {
-                "name": "时光邮局",
-                "link": "https://timemail.net/",
-                "description": "给未来写封信。"
+                "description": "网络资源站。"
             },
 			{
                 "name": "GitHub学生包",
                 "link": "https://education.github.com/pack",
-                "description": "白嫖的同时还能学习，有这种好事？"
+                "description": "校园邮箱福利。"
             },
+          
             {
-                "name": "Foxmail",
-                "link": "https://www.foxmail.com/",
-                "description": "你的邮件，现在有了新看法。"
-            },
-            {
-                "name": "Firefox",
+                "name": "限时推荐：Firefox",
                 "link": "https://www.mozilla.org/zh-CN/",
-                "description": "别信百度，这才是真正的Firefox！"
-            },
-{
-                "name": "我要添加",
-                "link": "https://wj.qq.com/s2/7310801/ff08/",
-                "description": "让爱兰岛变得更好！"
-            }
-        ]
-    },
-    {
-        "title": "自我提升",
-        "items": [
-		
-            {
-                "name": "大学对普通人的意义何在？",
-                "link": "https://mp.weixin.qq.com/s/FfVTpNTnNbXHmfION777RA",
-                "description": "有意思，说下去。"
-            },
-            {
-                "name": "让你重新上一次大学，你会？",
-                "link": "https://www.zhihu.com/question/304844787/answer/552701904",
-                "description": "我不开心的事情，让你开心一下。"
+                "description": "最干净的网络浏览器。"
             },
 			{
-                "name": "什么是学生思维？",
-                "link": "https://www.zhihu.com/question/63569860/answer/1504425203",
-                "description": "在你高考后的那个暑假，就可以开始了。"
-            },
-            {
-                "name": "白非力上进记",
-                "link": "https://zhuanlan.zhihu.com/p/91072728",
-                "description": "引以为戒。"
-            },
-            {
-                "name": "时光邮局",
-                "link": "https://timemail.net/",
-                "description": "给未来写封信，别忘了！"
-            },
-            {
-                "name": "GTD",
-                "link": "https://gettingthingsdone.com/what-is-gtd/",
-                "description": "管好你的时间和精力。"
-            },
-            {
-                "name": "如何提问",
-                "link": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md",
-                "description": "有问题，先多吉（不用百度是zzzq）。"
-            },
-{
-                "name": "我要添加",
+                "name": "我要建议",
                 "link": "https://wj.qq.com/s2/7310801/ff08/",
                 "description": "让爱兰岛变得更好！"
             }
         ]
     },
-    {
-        "title": "宝藏项目",
+	{
+        "title": "求职指南",
         "items": [
 		    {
                 "name": "牛客网",
                 "link": "https://www.nowcoder.com/",
-                "description": "先认识些厉害的人吧。"
+                "description": "大学生求职论坛。"
             },
-            {
-                "name": "腾讯PCG创新项目远程实习",
-                "link": "https://mp.weixin.qq.com/s/67iPoz3LvOLtS85dCq-QgA",
-                "description": "他不给钱，你不花钱，合作共赢。"
-            },
+            
             {
                 "name": "鹅厂线上研究训练营",
                 "link": "https://mp.weixin.qq.com/s/ics5Ppbnu7NAx_UwqU-gDg",
-                "description": "早了解，早准备。"
+                "description": "不限专业，推荐了解，提前准备。"
             },
-{
+			{
+                "name": "腾讯PCG创新项目远程实习",
+                "link": "https://mp.weixin.qq.com/s/67iPoz3LvOLtS85dCq-QgA",
+                "description": "不限专业，可以提前关注公众号。"
+            },
+			{
                 "name": "德勤寒假实习生",
                 "link": "https://mp.weixin.qq.com/s/19gE8AIDf7-8DhbfOJCILg",
-                "description": "哈，寒假也有实习？！！"
+                "description": "不限专业，2022届招募中。"
             },
-{
-                "name": "我要添加",
+			{
+                "name": "超级简历",
+                "link": "https://www.wondercv.com/cvs",
+                "description": "在线制作简历。"
+            },
+			{
+                "name": "实习僧",
+                "link": "https://www.shixiseng.com/",
+                "description": "大学生找实习求职招聘网站。"
+            },
+			{
+                "name": "Boss直聘",
+                "link": "https://www.zhipin.com/",
+                "description": "实习、校招平台。"
+            },
+			{
+                "name": "我要建议",
                 "link": "https://wj.qq.com/s2/7310801/ff08/",
                 "description": "让爱兰岛变得更好！"
             }
         ]
     },
+    {
+        "title": "精选文章",
+        "items": [
+		    {
+                "name": "让你重新上一次大学，你会？",
+                "link": "https://www.zhihu.com/question/304844787/answer/552701904",
+                "description": "学长学姐经历复盘。"
+            },
+            {
+                "name": "大学对我们的意义何在？",
+                "link": "https://mp.weixin.qq.com/s/FfVTpNTnNbXHmfION777RA",
+                "description": "大学四年是一场投资。"
+            },
+			{
+                "name": "什么是学生思维？",
+                "link": "https://www.zhihu.com/question/63569860/answer/1504425203",
+                "description": "最好的时间是十年前，其次是现在。"
+            },
+            {
+                "name": "白非力上进记",
+                "link": "https://zhuanlan.zhihu.com/p/91072728",
+                "description": "白非力的故事，引以为戒。"
+            },
+            {
+                "name": "如何提问",
+                "link": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md",
+                "description": "提问之前要做什么？"
+            },
+			{
+                "name": "限时推荐：时光邮局",
+                "link": "https://timemail.net/,
+                "description": "给四年后的自己写封信。"
+            },
+			{
+                "name": "我要建议",
+                "link": "https://wj.qq.com/s2/7310801/ff08/",
+                "description": "让爱兰岛变得更好！"
+            }
+        ]
+    },
+    
 	
     {
         "title": "联系岛哥",
         "items": [
             {
                 "name": "我要加QQ",
-              
+                "link": "tencent://message/?uin=1171401916&Site=JooIT.com&Menu=yes",
                 "description": "1171401916"
             },
             {
                 "name": "我要加入",
                 "link": "mailto:Jeffery2021@foxmail.com",
-                "description": "我也要搞事情！"
+                "description": "Jeffery2021@foxmail.com"
             },
             {
                 "name": "我要上墙",
                 "link": "https://wj.qq.com/s2/7313466/2d94/",
-                "description": "我的照片更好看！"
+                "description": "推荐背景图片。"
             }
         ]
     }
