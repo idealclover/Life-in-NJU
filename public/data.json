@@ -1,5 +1,5 @@
 [
-{
+    {
         "title": "兰大校园",
         "items": [
 			{
@@ -101,7 +101,7 @@
 			{
                 "name": "PPT模板",
                 "link": "http://www.officeplus.cn/",
-                "description": "Word-PPT-Excel模板大全"
+                "description": "Word-PPT-Excel模板大全。"
             },
             {
                 "name": "Pixabay",
@@ -208,6 +208,11 @@
                 "description": "大学四年是一场投资。"
             },
 			{
+                "name": "如何利用大学把自己卖个好价钱？",
+                "link": "https://mp.weixin.qq.com/s/tFWvpTqF0CrGF6R_4G9glw",
+                "description": "考上大学只是起点。"
+            },
+			{
                 "name": "什么是学生思维？",
                 "link": "https://www.zhihu.com/question/63569860/answer/1504425203",
                 "description": "最好的时间是十年前，其次是现在。"
@@ -224,7 +229,7 @@
             },
 			{
                 "name": "限时推荐：时光邮局",
-                "link": "https://timemail.net/,
+                "link": "https://timemail.net/",
                 "description": "给四年后的自己写封信。"
             },
 			{
