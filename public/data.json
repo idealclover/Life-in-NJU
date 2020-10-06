@@ -10,12 +10,12 @@
             {
                 "name": "教务在线",
                 "link": "http://jwk.lzu.edu.cn/academic/common/security/login.jsp",
-                "description": "选课，查课表，查教室。"
+                "description": "选课、查课表、查教室。"
             },
 			{
                 "name": "校内邮箱",
                 "link": "https://mail.lzu.edu.cn/",
-                "description": "白嫖神器，别用它投简历。"
+                "description": "白嫖神器、别用它投简历。"
             },
             {
                 "name": "个人工作台",
@@ -160,17 +160,17 @@
             {
                 "name": "鹅厂线上研究训练营",
                 "link": "https://mp.weixin.qq.com/s/ics5Ppbnu7NAx_UwqU-gDg",
-                "description": "不限专业，推荐了解，提前准备。"
+                "description": "不限专业、推荐了解、提前准备。"
             },
 			{
                 "name": "腾讯PCG创新项目远程实习",
                 "link": "https://mp.weixin.qq.com/s/67iPoz3LvOLtS85dCq-QgA",
-                "description": "不限专业，可以提前关注公众号。"
+                "description": "不限专业、可以提前关注公众号。"
             },
 			{
                 "name": "德勤寒假实习生",
                 "link": "https://mp.weixin.qq.com/s/19gE8AIDf7-8DhbfOJCILg",
-                "description": "不限专业，2022届招募中。"
+                "description": "不限专业、2022届招募中。"
             },
 			{
                 "name": "超级简历",
@@ -198,7 +198,7 @@
         "title": "精选文章",
         "items": [
 		    {
-                "name": "让你重新上一次大学，你会？",
+                "name": "让你重新上一次大学、你会？",
                 "link": "https://www.zhihu.com/question/304844787/answer/552701904",
                 "description": "学长学姐经历复盘。"
             },
@@ -215,12 +215,12 @@
 			{
                 "name": "什么是学生思维？",
                 "link": "https://www.zhihu.com/question/63569860/answer/1504425203",
-                "description": "最好的时间是十年前，其次是现在。"
+                "description": "最好的时间是十年前、其次是现在。"
             },
             {
                 "name": "白非力上进记",
                 "link": "https://zhuanlan.zhihu.com/p/91072728",
-                "description": "白非力的故事，引以为戒。"
+                "description": "白非力的故事、引以为戒。"
             },
             {
                 "name": "如何提问",
