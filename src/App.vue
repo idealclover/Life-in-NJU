@@ -46,7 +46,7 @@
                 class="searchOpt"
                 @click="changeEngine(0)"
               >
-                <i class="iconfont" id="iconBaidu">&#xe6b6;</i>
+                <i class="iconfont" id="iconCN_baidu">&#xe64e;</i>
               </v-btn>
             </div>
             <div class="text-center mx-4">
@@ -58,7 +58,7 @@
                 class="searchOpt"
                 @click="changeEngine(1)"
               >
-                <i class="iconfont" id="iconBing">&#xe63f;</i>
+                <i class="iconfont" id="iconbing">&#xeb4c;</i>
               </v-btn>
             </div>
             <div class="text-center mx-4">
@@ -70,7 +70,7 @@
                 class="searchOpt"
                 @click="changeEngine(2)"
               >
-                <i class="iconfont" id="iconGoogle">&#xe719;</i>
+                <i class="iconfont" id="icongoogle">&#xe719;</i>
               </v-btn>
             </div>
           </v-row>

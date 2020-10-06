@@ -1,30 +1,30 @@
 {
-  "id": "1796423",
-  "name": "Life In NJU",
+  "id": "2114923",
+  "name": "iland",
   "font_family": "iconfont",
-  "css_prefix_text": "icon-",
+  "css_prefix_text": "icon",
   "description": "",
   "glyphs": [
     {
-      "icon_id": "386278",
-      "name": "baidu",
-      "font_class": "baidu",
-      "unicode": "e6b6",
-      "unicode_decimal": 59062
+      "icon_id": "2041686",
+      "name": "CN_baidu",
+      "font_class": "CN_baidu",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
     },
     {
-      "icon_id": "929420",
+      "icon_id": "1467356",
       "name": "google",
       "font_class": "google",
-      "unicode": "e719",
-      "unicode_decimal": 59161
+      "unicode": "e692",
+      "unicode_decimal": 59026
     },
     {
-      "icon_id": "3876349",
+      "icon_id": "15378180",
       "name": "bing",
       "font_class": "bing",
-      "unicode": "e63f",
-      "unicode_decimal": 58943
+      "unicode": "eb4c",
+      "unicode_decimal": 60236
     }
   ]
 }
