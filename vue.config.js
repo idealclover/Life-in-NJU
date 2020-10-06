@@ -3,7 +3,7 @@ const TerserPlugin = require("terser-webpack-plugin");
 module.exports = {
   transpileDependencies: ["vuetify"],
   pwa: {
-    name: "life-in-nju",
+    name: "life-under-lzu",
     themeColor: "#5b145c",
     workboxOptions: {
       skipWaiting: true
