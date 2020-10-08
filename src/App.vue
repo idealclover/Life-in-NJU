@@ -46,7 +46,7 @@
                 class="searchOpt"
                 @click="changeEngine(0)"
               >
-                <i class="iconfont" id="iconCN_baidu">&#xe64e;</i>
+                <i class="iconfont" id="iconD">&#xe601;</i>
               </v-btn>
             </div>
             <div class="text-center mx-4">
@@ -58,7 +58,7 @@
                 class="searchOpt"
                 @click="changeEngine(1)"
               >
-                <i class="iconfont" id="iconbing">&#xeb4c;</i>
+                <i class="iconfont" id="iconCN_baidu">&#xe64e;</i>
               </v-btn>
             </div>
             <div class="text-center mx-4">
@@ -196,9 +196,9 @@ export default {
         src: dataUrl + "search/dogedoge-white.png"
       },
       {
-        name: "bing",
-        url: "https://cn.bing.com/search?q=",
-        src: dataUrl + "search/bing-white.png"
+        name: "baidu",
+        url: "https://www.baidu.com/s?wd=",
+        src: dataUrl + "search/baidu-white.png"
       },
       {
         name: "google",

@@ -34,6 +34,25 @@ var _hmt = _hmt || [];
     </script>
 
   </head>
+  <style>
+  html {
+    overflow: -moz-hidden-unscrollable;
+    height: 100%;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+body {
+    -ms-overflow-style: none;
+    height: 100%;
+	width: calc(100vw + 18px);
+	overflow: auto;
+}
+#app {
+    width: 100vw;
+}
+
+  </style>
   <body>
     <noscript>
       <strong>We're sorry but this site doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>

@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "17549631",
+      "name": "D",
+      "font_class": "D",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
       "icon_id": "2041686",
       "name": "CN_baidu",
       "font_class": "CN_baidu",
