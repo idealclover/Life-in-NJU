@@ -81,7 +81,7 @@
           </v-row>
         </v-col>
       </v-container>
-      <v-container>
+      <v-container style="flex: 1 1 auto">
         <v-expansion-panels multiple>
           <!-- <v-expansion-panels multiple :value="[0, 1, 2, 3]"> -->
           <v-expansion-panel
@@ -125,7 +125,7 @@
       </v-container>
       <v-col
         class="text-center white--text"
-        style="background-color: rgba(0,0,0,.2);"
+        style="background-color: rgba(0,0,0,.2); flex: 0 1 auto"
         cols="12"
       >
         ©{{ new Date().getFullYear() }}
@@ -249,3 +249,11 @@ export default {
   }
 };
 </script>
+
+<style>
+/*因为v-content无法操作slot的临时hack，可能需要修改布局*/
+div[class="v-content__wrap"] {
+  display: flex;
+  flex-direction: column;
+}
+</style>
