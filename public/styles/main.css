@@ -11,13 +11,14 @@ header {
   -webkit-backdrop-filter: blur(20px);
   backdrop-filter: blur(20px);
 }
+/* 不使用绝对路径而使用相对路径，避免部署在非根目录时出现的问题 */
 @font-face {
   font-family: "iconfont";
-  src: url("/font/iconfont.eot");
-  src: url("/font/iconfont.eot?#iefix") format("embedded-opentype"),
-    url("/font/iconfont.woff") format("woff"),
-    url("/font/iconfont.ttf") format("truetype"),
-    url("/font/iconfont.svg#iconfont") format("svg");
+  src: url("../font/iconfont.eot");
+  src: url("../font/iconfont.eot?#iefix") format("embedded-opentype"),
+    url("../font/iconfont.woff") format("woff"),
+    url("../font/iconfont.ttf") format("truetype"),
+    url("../font/iconfont.svg#iconfont") format("svg");
 }
 .iconfont {
   font-family: "iconfont" !important;
