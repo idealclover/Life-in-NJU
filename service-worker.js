@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4a544d4c6290ebb24b79257ed8152857.js"
+  "/precache-manifest.d79e1a802abd73c2e7fa5cbe5b83a2b1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "life-in-nju"});

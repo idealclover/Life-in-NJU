@@ -243,6 +243,11 @@
                 "description": "本科毕业论文的Latex模板"
             },
             {
+                "name": "南京大学本科毕业论文Latex模板（2021）",
+                "link": "https://github.com/FengChendian/NJUThesis2021",
+                "description": "根据新标准修改后的本科毕业论文Latex模板"
+            },
+            {
                 "name": "课程评估自动化",
                 "link": "https://fuck.idealclover.cn/",
                 "description": "每学期的课程评估简直噩梦"

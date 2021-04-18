@@ -1,10 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72ccd76d3fd4f6cd28d2",
+    "revision": "706875ac701a6ab35e09",
+    "url": "/css/app.4f6daeec.css"
+  },
+  {
+    "revision": "e88f98d3f48ce8232d6d",
     "url": "/css/chunk-vendors.234d33b2.css"
   },
   {
-    "revision": "d7c7d1d9e244bdecdc425eaf98d489a2",
+    "revision": "834c20e4c0db477bdaf39993d0888f14",
     "url": "/data.json"
   },
   {
@@ -64,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "5cf9288d9469828e9edf58b2ed564d22",
+    "revision": "38a5343bcc8a4f95a26fa185dd8095cd",
     "url": "/index.html"
   },
   {
@@ -72,20 +76,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/AddToHomeScreen.js"
   },
   {
+    "revision": "b9ae82417d9d894c6de1996a61bba7f1",
+    "url": "/js/AddToHomeScreen.min.js"
+  },
+  {
     "revision": "0774e2c52be3bed0d18cae4606c54638",
     "url": "/js/FuckWeixin.js"
   },
   {
-    "revision": "59bbb3795d536c30f62d",
-    "url": "/js/app.1fdae2a6.js"
+    "revision": "1b888766f57583746f119d72fc319c8c",
+    "url": "/js/FuckWeixin.min.js"
   },
   {
-    "revision": "72ccd76d3fd4f6cd28d2",
-    "url": "/js/chunk-vendors.980b8206.js"
+    "revision": "706875ac701a6ab35e09",
+    "url": "/js/app.077c708d.js"
+  },
+  {
+    "revision": "e88f98d3f48ce8232d6d",
+    "url": "/js/chunk-vendors.1c786e98.js"
   },
   {
     "revision": "328e151457e28ddc835aaa1c3e6c852a",
-    "url": "/js/chunk-vendors.980b8206.js.LICENSE.txt"
+    "url": "/js/chunk-vendors.1c786e98.js.LICENSE.txt"
   },
   {
     "revision": "87af9111d4ce2e17a9c7ec443076dc00",
@@ -96,7 +108,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robots.txt"
   },
   {
-    "revision": "f7baa0a801ecfb622d2f0937ee286aff",
+    "revision": "e9467751a7ff8114071ce304e6314feb",
     "url": "/styles/main.css"
+  },
+  {
+    "revision": "1865d88bd5ee99d3c29a0c73cc2d4c04",
+    "url": "/styles/main.min.css"
   }
 ]);
