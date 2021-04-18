@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09288a584b4a58f5d522",
+    "revision": "7085fde9f53184038257",
     "url": "/css/app.4f6daeec.css"
   },
   {
@@ -68,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "e457580cf460965b9b7a8a5588be2612",
+    "revision": "fe125a72523ab7b8d6268fa203f73e89",
     "url": "/index.html"
   },
   {
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/FuckWeixin.min.js"
   },
   {
-    "revision": "09288a584b4a58f5d522",
-    "url": "/js/app.c3a3edef.js"
+    "revision": "7085fde9f53184038257",
+    "url": "/js/app.ae49c913.js"
   },
   {
     "revision": "e88f98d3f48ce8232d6d",
