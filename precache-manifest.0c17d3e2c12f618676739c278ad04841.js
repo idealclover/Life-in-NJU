@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d215c29ba2fb426f3aac",
+    "revision": "e1f5855bddb42a6d5b34",
     "url": "/css/app.4f6daeec.css"
   },
   {
-    "revision": "e88f98d3f48ce8232d6d",
-    "url": "/css/chunk-vendors.234d33b2.css"
+    "revision": "c304d6adffd5e36744e9",
+    "url": "/css/chunk-vendors.b923a49c.css"
   },
   {
     "revision": "834c20e4c0db477bdaf39993d0888f14",
@@ -68,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "7fa2b1feebc41b7eb08b81ef262523e9",
+    "revision": "4c7ca67c8bcfa57a381a91c559428e42",
     "url": "/index.html"
   },
   {
@@ -88,16 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/FuckWeixin.min.js"
   },
   {
-    "revision": "d215c29ba2fb426f3aac",
-    "url": "/js/app.99d51866.js"
+    "revision": "e1f5855bddb42a6d5b34",
+    "url": "/js/app.e798bddd.js"
   },
   {
-    "revision": "e88f98d3f48ce8232d6d",
-    "url": "/js/chunk-vendors.1c786e98.js"
+    "revision": "c304d6adffd5e36744e9",
+    "url": "/js/chunk-vendors.4e32fc72.js"
   },
   {
     "revision": "328e151457e28ddc835aaa1c3e6c852a",
-    "url": "/js/chunk-vendors.1c786e98.js.LICENSE.txt"
+    "url": "/js/chunk-vendors.4e32fc72.js.LICENSE.txt"
   },
   {
     "revision": "87af9111d4ce2e17a9c7ec443076dc00",
