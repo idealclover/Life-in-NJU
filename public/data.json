@@ -146,6 +146,16 @@
                 "name": "高性能计算中心",
                 "link": "https://hpc.nju.edu.cn/",
                 "description": "电脑不够算，快找HPC"
+            },
+            {
+                "name": "免费电子书",
+                "link": "https://www.yuque.com/ff282l/gm8kgc/zpmza8",
+                "description": "各种电子教材或读物下载的小合集"
+            },
+            {
+                "name": "网站镜像",
+                "link": "https://www.yuque.com/ff282l/gm8kgc/uw70mr",
+                "description": "一些不存在的网站的镜像"
             }
         ]
     },
@@ -216,6 +226,16 @@
                 "name": "网络电视",
                 "link": "http://tv.nju.edu.cn/",
                 "description": "（需要校园网）神奇的电视直播站"
+            },
+            {
+                "name": "各届毕业典礼照片",
+                "link": "https://xiaoban.nju.edu.cn/bydl/list.htm",
+                "description": "快来看看有没有熟人的黑照（不是）"
+            },
+            {
+                "name": "南大标识视觉形象化标准",
+                "link": "https://www.nju.edu.cn/3647/list.htm",
+                "description": "找校徽素材？点我"
             }
         ]
     },
