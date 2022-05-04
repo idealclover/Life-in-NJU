@@ -158,27 +158,26 @@ import Clipboard from "clipboard";
 const dataUrl = "https://image.idealclover.cn/projects/Life-in-NJU/";
 const imgUrl =
   dataUrl + "background/bg" + Math.floor(Math.random() * 24) + ".jpg";
-console.log(imgUrl);
 new Clipboard(".shareLink");
 Vue.use(Vuex);
 let nativeShare = new NativeShare();
 
 const store = new Vuex.Store({
   state: {
-    engineIndex: 0,
+    engineIndex: 0
   },
   mutations: {
     changeEngineIndex(state, num) {
       state.engineIndex = num;
-    },
+    }
   },
-  plugins: [createPersiste()],
+  plugins: [createPersiste()]
 });
 
 export default {
   name: "App",
   mounted() {
-    axios.get("./data.json").then((response) => (this.data = response.data));
+    axios.get("./data.json").then(response => (this.data = response.data));
   },
   data: () => ({
     data: null,
@@ -192,19 +191,19 @@ export default {
       {
         name: "baidu",
         url: "https://www.baidu.com/s?wd=",
-        src: dataUrl + "search/baidu-white.png",
+        src: dataUrl + "search/baidu-white.png"
       },
       {
         name: "bing",
         url: "https://cn.bing.com/search?q=",
-        src: dataUrl + "search/bing-white.png",
+        src: dataUrl + "search/bing-white.png"
       },
       {
         name: "google",
         url: "https://www.google.com/search?q=",
-        src: dataUrl + "search/google-white.png",
-      },
-    ],
+        src: dataUrl + "search/google-white.png"
+      }
+    ]
   }),
   methods: {
     open: function(link) {
@@ -219,7 +218,7 @@ export default {
         link: "https://nju.today",
         title: "南哪指南",
         desc: "南哪人的专属导航页！",
-        from: "@idealclover",
+        from: "@idealclover"
       });
 
       // 唤起浏览器原生分享组件(如果在微信中不会唤起，此时call方法只会设置文案。类似setShareData)
@@ -245,8 +244,8 @@ export default {
     showToast: function(text) {
       this.snackText = text;
       this.snackbar = true;
-    },
-  },
+    }
+  }
 };
 </script>
 
